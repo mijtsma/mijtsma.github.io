@@ -15,11 +15,12 @@ I teach a number of courses. These courses are open to ISE students and to stude
 
 I am an active member of the Human Factors and Ergonomics Society (HFES) and the American Institute of Aeronautics and Astronautics (AIAA).
 
-#Highlights
-- February 2022: Our paper on teamwork metrics for human-robot teams has been accepted to ACM Transactions on Human-Robot Interaction
-- February 2022: I was elected as program chair for the Cognitive Engineering and Decision Making technical group at the Human Factors and Ergonomics Society
-- January 2022: I presented a paper at the AIAA SciTech Forum in San Diego
-- November 2021: I gave an invited talk at the Ohio Chapter of the Human Factors and Ergonomics Society
-- November 2021: I gave a seminar at the Department of Mechnical and Aerospace Engineering
-- November 2021: PhD student Abhinay and MS student Renske presented their work on modeling coordination in advanced air mobility systems at Ohio State's TDAI Fall Forum.
-- October 2021: MS students Jacob and Katie both successfully presented papers the HFES Annual Meeting in Baltimore.
+Highlights
+======
+* February 2022: Our paper on teamwork metrics for human-robot teams has been accepted to ACM Transactions on Human-Robot Interaction
+* February 2022: I was elected as program chair for the Cognitive Engineering and Decision Making technical group at the Human Factors and Ergonomics Society
+* January 2022: I presented a paper at the AIAA SciTech Forum in San Diego
+* November 2021: I gave an invited talk at the Ohio Chapter of the Human Factors and Ergonomics Society
+* November 2021: I gave a seminar at the Department of Mechnical and Aerospace Engineering
+* November 2021: PhD student Abhinay and MS student Renske presented their work on modeling coordination in advanced air mobility systems at Ohio State's TDAI Fall Forum.
+* October 2021: MS students Jacob and Katie both successfully presented papers the HFES Annual Meeting in Baltimore.

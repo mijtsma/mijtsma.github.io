@@ -17,15 +17,11 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* September 2019 -- current: Assistant Professor
+  * The Ohio State University
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* August 2016 - July 2019: Graduate Research Assistant
+  * Georgia Institute of Technology
 
 Publications
 ======
@@ -48,3 +44,11 @@ Teaching
 Service and leadership
 ======
 * Officer (Program Chair Elect) for the Human Factors and Ergonomics Society
+* Journal reviewer:
+  * Journal of Cognitive Engineering and Decision Making
+  * Human Factors and Ergonomics in Manufacturing and Service Industries
+  * AIAA Journal of Aerospace Information Systems
+* Conference Program Committee Member / Reviewer
+  * Human Factors and Ergonomics Society
+  * ACM CHI Conference on Human Factors in Computing Systems
+
