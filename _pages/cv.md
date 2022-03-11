@@ -9,11 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+[PDF version of CV](https://mijtsma.github.io/files/CV_Martijn_IJtsma.pdf)
+
 Education
 ======
-* B.Sc. in Aerospace Engineering, Delft University of Technology, 2013
-* M.Sc. in Aerospace Engineering, Delft University of Technology, 2016
 * Ph.D in Aerospace Engineering, Georgia Institute of Technology, 2019
+* M.Sc. in Aerospace Engineering, Delft University of Technology, 2016
+* B.Sc. in Aerospace Engineering, Delft University of Technology, 2013
 
 Work experience
 ======
@@ -43,7 +45,7 @@ Teaching
   
 Service and leadership
 ======
-* Officer (Program Chair Elect) for the Human Factors and Ergonomics Society
+* Program Chair Elect for the Human Factors and Ergonomics Society
 * Journal reviewer:
   * Journal of Cognitive Engineering and Decision Making
   * Human Factors and Ergonomics in Manufacturing and Service Industries
