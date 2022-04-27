@@ -8,16 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor in the Integrated Systems Engineering department at the Ohio State University (OSU) with a courtesy appointment in the Department of Mechanical and Aerospace Engineering. I co-direct the [Cognitive Systems Engineering Lab (CSEL)](https://csel.engineering.osu.edu). My research interests evolve around human-human and human-autonomy teaming (HAT) to improve the safety and efficiency of complex and high-risk operations. HAT, in which humans and AI/robotic agents work jointly towards shared goals, applies to a wide variety of domains, such as spaceflight operations, Unmanned Aerial Vehicles (UAV) operations, and autonomous driving. As an important enabler of effective teaming, my students and I work on supporting coordination between humans and (semi-)autonomous agents to improve joint performance during time-critical events.  
-<!--See the “Research” tab on the CSEL website for an overview of specific (past and current) projects. An overview of my publications can be found here.-->
+I am an assistant professor in the Integrated Systems Engineering department at the Ohio State University (OSU) with a courtesy appointment in the Department of Mechanical and Aerospace Engineering. My research interests evolve around operations of heterogeneous multi-agent systems in naturalistic, high-complexity environments. This includes research human-AI/robot teaming (HART) and technology-supported human-human coordination and collaboration to improve the safety and resilience of high-stakes operations. This research contributes to a variety of domains of practice, such as air traffic management, spaceflight operations, smart mobility, and disaster response operations. 
 
-I teach courses at the undergraduate and graduate level. These courses are open to ISE students and to students from other departments and majors. I encourage anyone who is interested in HAT to sign up for these courses. More courses, also ones offered by my colleagues on similar topics, can be found on the [CSEL course page](https://u.osu.edu/csel/cognitive-systems-engineering-courses/).
+I lead a group of graduate and undergraduate students as part of the [Cognitive Systems Engineering Lab (CSEL)](https://csel.engineering.osu.edu). See the [Research tab](https://u.osu.edu/csel/research-projects/) for an overview of specific (past and current) projects that my students and I are working on. An overview of our publications can be found [here](https://mijtsma.github.io/publications/).
+<!--As an important enabler of effective teaming, my students and I work on supporting coordination between humans and (semi-)autonomous agents to improve joint performance during time-critical events.  -->
+
+I teach [several courses](https://mijtsma.github.io/teaching/) at the undergraduate and graduate level. These courses are open to ISE/MAE students and to students from other departments and majors. I encourage anyone who is interested in systems integration of human and AI/robotic capabilities to sign up for these courses. More courses, also ones offered by my colleagues on similar topics, can be found on the [CSEL course page](https://u.osu.edu/csel/cognitive-systems-engineering-courses/).
 
 I am an active member of the Human Factors and Ergonomics Society (HFES) and the American Institute of Aeronautics and Astronautics (AIAA).
 
 Highlights
 ======
-* February 2022: Our paper on teamwork metrics for human-robot teams has been accepted to ACM Transactions on Human-Robot Interaction
+* April 2022: Our paper on teamwork metrics for human-robot teams was published in ACM Transactions on Human-Robot Interaction
+* April 2022: My students presented their research at Ohio's Advanced Air Mobility Symposium
 * February 2022: I was elected as program chair for the Cognitive Engineering and Decision Making technical group at the Human Factors and Ergonomics Society
 * January 2022: I presented a paper at the AIAA SciTech Forum in San Diego
 * November 2021: I gave an invited talk at the Ohio Chapter of the Human Factors and Ergonomics Society
