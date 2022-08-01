@@ -19,6 +19,7 @@ I am an active member of the Human Factors and Ergonomics Society (HFES) and the
 
 Highlights
 ======
+* July 2022: MS student Renske presented our work at the AIAA Aviation Forum and Exposition in Chicago. 
 * April 2022: Our paper on teamwork metrics for human-robot teams was published in ACM Transactions on Human-Robot Interaction
 * April 2022: My students presented their research at Ohio's Advanced Air Mobility Symposium
 * February 2022: I was elected as program chair for the Cognitive Engineering and Decision Making technical group at the Human Factors and Ergonomics Society
