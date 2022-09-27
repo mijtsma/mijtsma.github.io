@@ -13,12 +13,15 @@ I am an assistant professor in the Integrated Systems Engineering department at 
 I lead a group of graduate and undergraduate students as part of the [Cognitive Systems Engineering Lab (CSEL)](https://csel.engineering.osu.edu). See the [Research tab](https://u.osu.edu/csel/research-projects/) for an overview of specific (past and current) projects that my students and I work(ed) on. An overview of our publications can be found [here](https://mijtsma.github.io/publications/).
 <!--As an important enabler of effective teaming, my students and I work on supporting coordination between humans and (semi-)autonomous agents to improve joint performance during time-critical events.  -->
 
-I teach [several courses](https://mijtsma.github.io/teaching/) at the undergraduate and graduate level. These courses are open to ISE/MAE students and to students from other departments and majors. I encourage anyone who is interested in systems integration of human and AI/robotic capabilities to sign up for these courses. More courses, also ones offered by my colleagues on similar topics, can be found on the [CSEL course page](https://u.osu.edu/csel/cognitive-systems-engineering-courses/).
+I teach [several courses](https://mijtsma.github.io/teaching/) at the undergraduate and graduate levels. These courses are open to ISE/MAE students and students from other departments and majors. I encourage anyone interested in systems integration of human and AI/robotic capabilities to sign up for these courses. More courses, also ones offered by my colleagues on similar topics, can be found on the [CSEL course page](https://u.osu.edu/csel/cognitive-systems-engineering-courses/).
 
 I am an active member of the Human Factors and Ergonomics Society (HFES) and the American Institute of Aeronautics and Astronautics (AIAA).
 
 Highlights
 ======
+* September 2022: Our proposal to the Federal Aviation Administration (FAA) was selected for funding
+* September 2022: My manuscript to IEEE Transactions on Human-Machine Systems has been accepted for publication 
+* September 2022: Our proposal to NASA Aeronautics was selected for funding
 * August 2022: MS student Stephanie successfully defended her MS thesis
 * July 2022: MS student Renske presented our work at the AIAA Aviation Forum and Exposition in Chicago. 
 * April 2022: Our paper on teamwork metrics for human-robot teams was published in ACM Transactions on Human-Robot Interaction
@@ -26,6 +29,6 @@ Highlights
 * February 2022: I was elected as program chair for the Cognitive Engineering and Decision Making technical group at the Human Factors and Ergonomics Society
 * January 2022: I presented a paper at the AIAA SciTech Forum in San Diego
 * November 2021: I gave an invited talk at the Ohio Chapter of the Human Factors and Ergonomics Society
-* November 2021: I gave a seminar at the Department of Mechnical and Aerospace Engineering
-* November 2021: PhD student Abhinay and MS student Renske presented their work on modeling coordination in advanced air mobility systems at Ohio State's TDAI Fall Forum.
-* October 2021: MS students Jacob and Katie both successfully presented papers the HFES Annual Meeting in Baltimore.
+* November 2021: I gave a seminar at the Department of Mechanical and Aerospace Engineering
+* November 2021: Ph.D. student Abhinay and MS student Renske presented their work on modeling coordination in advanced air mobility systems at Ohio State's TDAI Fall Forum.
+* October 2021: MS students Jacob and Katie both successfully presented papers at the HFES Annual Meeting in Baltimore.
