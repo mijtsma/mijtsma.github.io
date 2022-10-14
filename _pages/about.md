@@ -19,6 +19,7 @@ I am an active member of the Human Factors and Ergonomics Society (HFES) and the
 
 Highlights
 ======
+* October 2022: The lab presented two papers at the Human Factors and Ergonomics' Annual Meeting in Atlanta
 * September 2022: Our proposal to the Federal Aviation Administration (FAA) was selected for funding
 * September 2022: My manuscript to IEEE Transactions on Human-Machine Systems has been accepted for publication 
 * September 2022: Our proposal to NASA Aeronautics was selected for funding
