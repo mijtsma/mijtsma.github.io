@@ -19,4 +19,5 @@ main:
     url: /cv/
     
   - title: "Schedule meeting (for students)"
-    url: https://outlook.office365.com/owa/calendar/DrIJtsmaMeetingScheduler@buckeyemail.osu.edu/bookings/
+    url: https://outlook.office.com/bookwithme/user/c0e8a2a8b99c46469702075ef441dd34@osu.edu?anonymous&ep=plink
+    # url: https://outlook.office365.com/owa/calendar/DrIJtsmaMeetingScheduler@buckeyemail.osu.edu/bookings/
