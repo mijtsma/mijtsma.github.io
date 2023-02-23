@@ -15,10 +15,11 @@ I lead a group of graduate and undergraduate students as part of the [Cognitive 
 
 I teach [several courses](https://mijtsma.github.io/teaching/) at the undergraduate and graduate levels. These courses are open to ISE/MAE students and students from other departments and majors. I encourage anyone interested in systems integration of human and AI/robotic capabilities to sign up for these courses. More courses, also ones offered by my colleagues on similar topics, can be found on the [CSEL course page](https://u.osu.edu/csel/cognitive-systems-engineering-courses/).
 
-I am an active member of the Human Factors and Ergonomics Society (HFES) and the American Institute of Aeronautics and Astronautics (AIAA).
+I am an active member of the Human Factors and Ergonomics Society (HFES)<!-- and the American Institute of Aeronautics and Astronautics (AIAA) -->.
 
 Highlights
 ======
+* February 2023: I received a [NSF Faculty Early Career Development (CAREER) award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2238402&HistoricalAwards=false)
 * December 2022: MS student Katie successfully defended her MS thesis
 * November 2022: MS student Jacob published a journal article about his work on Autonomous Flight Safety Systems in space operations
 * October 2022: The lab presented two papers at the Human Factors and Ergonomics' Annual Meeting in Atlanta
