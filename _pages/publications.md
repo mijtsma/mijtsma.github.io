@@ -60,18 +60,17 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 \[C7\] Ma. L.M., **IJtsma, M.**, Feigh, K.M., Paladugu, A., & Pritchett, A.R. (2018). *Modelling and Evaluating Failures in Human-Robot Teaming Using Simulation*. Paper presented at the 2018 IEEE Aerospace Conference, Big Sky, MT. [`pdf`](
 https://ieeexplore.ieee.org/document/8396581)
 
-\[C6\] **IJtsma, M.**, Bhattacharyya, R.P., Pritchett, A.R., & Hoekstra, J. (2015). *Computational Assessment of Different Air-Ground Function Allocations*. Paper presented at the 11th USA/Europe Air Traffic Management Research and Development Seminar, Lisbon, Portugal.
+\[C6\] **IJtsma, M.**, Ma, L.M., Feigh, K.M., & Pritchett, A.R. (2018). *Demonstration of the "Work Models that Compute" Simulation Framework for Objective Function Allocation*. Paper presented at the Human Factors and Ergonomics Society Annual Meeting, Philadelphia, PA.
 
-\[C5\] **IJtsma, M.**, Ma, L.M., Feigh, K.M., & Pritchett, A.R. (2018). *Demonstration of the "Work Models that Compute" Simulation Framework for Objective Function Allocation*. Paper presented at the Human Factors and Ergonomics Society Annual Meeting, Philadelphia, PA.
+\[C5\] **IJtsma, M.**, Pritchett, A.R., Ma, L.M., & Feigh, K.M. (2017). *Modeling Human-Robot Interaction to Inform Function Allocation in Manned Spaceflight Operations*. Paper presented at Robotics: Science and Systems, Boston, MA.
 
-\[C4\] **IJtsma, M.**, Pritchett, A.R., Ma, L.M., & Feigh, K.M. (2017). *Modeling Human-Robot Interaction to Inform Function Allocation in Manned Spaceflight Operations*. Paper presented at Robotics: Science and Systems, Boston, MA.
+\[C4\] **IJtsma, M.**, Borst, C., Mercado-Velasco, G.A., Mulder, M., & Van Paassen, M.M. (2017) *Adaptive Automation Based on Air Traffic Controller's Decision-Making*. Paper presented at the International Symposium on Aviation Psychology, Dayton, OH.
 
-\[C3\] **IJtsma, M.**, Borst, C., Mercado-Velasco, G.A., Mulder, M., & Van Paassen, M.M. (2017) *Adaptive Automation Based on Air Traffic Controller's Decision-Making*. Paper presented at the International Symposium on Aviation Psychology, Dayton, OH.
+\[C3\] **IJtsma, M.**, Ma, L.M., Pritchett, A.R., & Feigh, K.M. (2017). *Work Dynamics of Taskwork and Teamwork in Function Allocation for Manned Spaceflight Operations*. Paper presented at the International Symposium on Aviation Psychology, Dayton, OH.
 
-\[C2\] **IJtsma, M.**, Ma, L.M., Pritchett, A.R., & Feigh, K.M. (2017). *Work Dynamics of Taskwork and Teamwork in Function Allocation for Manned Spaceflight Operations*. Paper presented at the International Symposium on Aviation Psychology, Dayton, OH.
+\[C2\] **IJtsma, M.**, Bhattacharyya, R.P., & Pritchett, A.R. (2015). *Computational Simulation of Authority-Responsibility Mismatches in Air-Ground Function Allocation*. Paper presented at the International Symposium on Aviation Psychology, Dayton, OH.
 
-\[C1\] **IJtsma, M.**, Bhattacharyya, R.P., & Pritchett, A.R. (2015). *Computational Simulation of Authority-Responsibility Mismatches in Air-Ground Function Allocation*. Paper presented at the International Symposium on Aviation Psychology, Dayton, OH.
-
+\[C1\] **IJtsma, M.**, Bhattacharyya, R.P., Pritchett, A.R., & Hoekstra, J. (2015). *Computational Assessment of Different Air-Ground Function Allocations*. Paper presented at the 11th USA/Europe Air Traffic Management Research and Development Seminar, Lisbon, Portugal.
 <!--
 \[\] # Theses
 
