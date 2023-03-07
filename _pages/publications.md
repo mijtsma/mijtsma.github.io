@@ -17,18 +17,6 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 \[J1\] Pritchett, A. R., Bhattacharyya, R. P., & **IJtsma, M.** (2016). Computational Assessment of Authority and Responsibility in Air Traffic Concepts of Operation. *Journal of Air Transportation, 24*(3), 93-101. [`pdf`](https://doi.org/10.2514/1.D0024)
 
-<!--
-\[\] Manuscripts in Review
-
-\[\] Keller, J., **IJtsma, M.**, & Newton, E.K. (In Review). Examining Autonomous Flight Safety Systems from a Cognitive Systems Engineering Perspective: Challenges, Themes, and Outlying Risks. *Journal of Space Safety Engineering}.
- -->
-<!--
-\[\] # Manuscripts in Preparation
-
-\[\] **IJtsma, M.** (2022). A Review of Designing Resilient Human-Machine Teams: Towards Dynamic and Formative Interaction Design. *Theoretical Issues on Ergonomics Science*.
-
-\[\] **IJtsma, M.** (2022). Modeling of Human-Robot Interaction Strategies for Formative Design. *IEEE Transactions on Human-Machine Systems*. -->
-
 # Book Chapters
 \[B1\] **IJtsma, M.**, Ma, L.M., Feigh, K.M., & Pritchett, A.R. (2019). Analysis of Work Dynamics for Objective Function Allocation in Manned Spaceflight Operations. In M.A. Vidulich & P. Tsang (Eds.), *Improving Aviation Performance through Applying Engineering Psychology, Advances in Aviation Psychology*.
 
@@ -71,10 +59,3 @@ https://ieeexplore.ieee.org/document/8396581)
 \[C2\] **IJtsma, M.**, Ma, L.M., Pritchett, A.R., & Feigh, K.M. (2017). *Work Dynamics of Taskwork and Teamwork in Function Allocation for Manned Spaceflight Operations*. Paper presented at the International Symposium on Aviation Psychology, Dayton, OH.
 
 \[C1\] **IJtsma, M.**, Bhattacharyya, R.P., & Pritchett, A.R. (2015). *Computational Simulation of Authority-Responsibility Mismatches in Air-Ground Function Allocation*. Paper presented at the International Symposium on Aviation Psychology, Dayton, OH.
-
-<!--
-\[\] # Theses
-
-\[\] **IJtsma, M.** (2019). *Computational Simulation of Adaptation of Work Strategies in Human-Robot Teams* (doctoral thesis). Georgia Institute of Technology, United States
-
-\[\] **IJtsma, M.** (2016). *Adaptive Automation Based on Air Traffic Controller’s Decision-Making* (master's thesis). Delft University of Technology, Netherlands -->
