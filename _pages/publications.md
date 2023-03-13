@@ -7,7 +7,7 @@ author_profile: true
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=CepXXxYAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
 # Journal Articles
-\[J5\] Keller, J.R., **IJtsma, M.**, Newton, E.K. (2022). Examining autonomous flight safety systems from a cognitive systems engineering perspective: Challenges, themes, and outlying risks. *Journal of Space Safety Engineering*. [`pdf`](ttps://doi.org/10.1016/j.jsse.2022.11.005)
+\[J5\] Keller, J.R., **IJtsma, M.**, Newton, E.K. (2022). Examining autonomous flight safety systems from a cognitive systems engineering perspective: Challenges, themes, and outlying risks. *Journal of Space Safety Engineering, 10*(1), 76-81. [`pdf`](ttps://doi.org/10.1016/j.jsse.2022.11.005)
 
 \[J4\] **IJtsma, M.**, Borst, C., Mulder, M., & Van Paassen, M.M. (2022). Evaluation of a Decision-Based Invocation Strategy for Adaptive Support for Air Traffic Control. *IEEE Transactions on Human-Machine Systems, 52*(6), 1135-1146. [`pdf`](https://doi.org/10.1109/THMS.2022.3208817)
 
