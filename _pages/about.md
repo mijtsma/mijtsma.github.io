@@ -15,7 +15,7 @@ I lead a group of graduate and undergraduate students as part of the [Cognitive 
 
 I teach [several courses](https://mijtsma.github.io/teaching/) at the undergraduate and graduate levels. These courses are open to ISE/MAE students and students from other departments and majors. I encourage anyone interested in systems integration of human and AI/robotic capabilities to sign up for these courses. More courses, also ones offered by my colleagues on similar topics, can be found on the [CSEL course page](https://u.osu.edu/csel/cognitive-systems-engineering-courses/).
 
-I am an active member of the Human Factors and Ergonomics Society (HFES)<!-- and the American Institute of Aeronautics and Astronautics (AIAA) -->.
+I am an active member of the Human Factors and Ergonomics Society (HFES) and the American Institute of Aeronautics and Astronautics (AIAA).
 
 Highlights
 ======
