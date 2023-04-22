@@ -19,14 +19,17 @@ I am an active member of the Human Factors and Ergonomics Society (HFES) and the
 
 Highlights
 ======
-* February 2023: I received a [NSF Faculty Early Career Development (CAREER) award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2238402&HistoricalAwards=false)
-* December 2022: MS student Katie successfully defended her MS thesis
+* April 2023: Abhinay passed his candidacy exam
+* April 2023: Jacob successfully defended his MS thesis on "Evaluating Team Coordination Strategies and Performance Outcomes in Human-Robot Joint Activity"
+* April 2023: Renske successfully defended her MS thesis on "The Development of Visual Aids and Design Processes to Support Safety Assessments of Complex Automated Systems"
+* February 2023: I received an [NSF Faculty Early Career Development (CAREER) award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2238402&HistoricalAwards=false)
+* December 2022: MS student Katie successfully defended her MS thesis on "Graph-Theoretical Design and Evaluation of Proactive Robotic Teammates"
 * November 2022: MS student Jacob published a journal article about his work on Autonomous Flight Safety Systems in space operations
 * October 2022: The lab presented two papers at the Human Factors and Ergonomics' Annual Meeting in Atlanta
 * September 2022: Awarded a new research project with the Federal Aviation Administration (FAA)
 * September 2022: Manuscript to IEEE Transactions on Human-Machine Systems was accepted for publication
 * September 2022: Awarded a new NASA research project with Mosaic ATM on Advanced Air Mobility
-* August 2022: MS student Stephanie successfully defended her MS thesis
+* August 2022: MS student Stephanie successfully defended her MS thesis on "Supporting Resilience in Distributed Work Systems through Modeling Adaptive Capacity"
 * July 2022: MS student Renske presented our work at the AIAA Aviation Forum and Exposition in Chicago. 
 * April 2022: Article on teamwork metrics for human-robot teams was published in ACM Transactions on Human-Robot Interaction
 * April 2022: My students presented their research at Ohio's Advanced Air Mobility Symposium
