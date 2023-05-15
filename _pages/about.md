@@ -17,7 +17,7 @@ I teach [several courses](https://mijtsma.github.io/teaching/) at the undergradu
 
 I am an active member of the Human Factors and Ergonomics Society (HFES) and the American Institute of Aeronautics and Astronautics (AIAA).
 
-Highlights
+News
 ======
 * April 2023: Abhinay passed his candidacy exam
 * April 2023: Jacob successfully defended his MS thesis on "Evaluating Team Coordination Strategies and Performance Outcomes in Human-Robot Joint Activity"
