@@ -7,7 +7,7 @@ author_profile: true
 
 Our group is part of the Cognitive Systems Engineering Lab. Check out [CSEL's website](https://csel.engineering.osu.edu) for more information about our ongoing work.
 
-If you're interested in joining our research group, please see [this note](#join).
+If you're interested in joining our research group, please see [this note](#join-our-group).
 
 # Current Students
 - Abhinay Paladugu, Ph.D. Candidate
