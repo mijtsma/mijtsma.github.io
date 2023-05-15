@@ -10,11 +10,11 @@ author_profile: true
 Covers models of human-machine systems and methods to study human-machine systems in complex work settings.
 
 ## ISE 5740 – Human-Centered Automation
-*Autumn 2021, 2022*
+*Autumn 2021, 2022, 2023*
 
 Provides key concepts to make autonomous systems, robots, and artificially intelligent systems team players with responsible people.
 
 ## ISE 3700 – Introduction to Cognitive Systems Engineering
-*Spring 2020, 2021, 2022, 2023*
+*Spring 2020, 2021, 2022, 2023, 2024*
 
 Human-centered design of cognitive tools and work systems. Human-computer interaction; decision making; human error; computer-supported distributed work; design of decision support systems.
