@@ -3,9 +3,6 @@ permalink: /group/
 title: "Research Group"
 excerpt: "Research Group"
 author_profile: true
-redirect_from: 
-  - /group/
-  - /group.html
 ---
 
 Our group is part of the Cognitive Systems Engineering Lab. Check out [CSEL's website](https://csel.engineering.osu.edu) for more information about our ongoing work.
