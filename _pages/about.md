@@ -19,6 +19,7 @@ I am an active member of the Human Factors and Ergonomics Society (HFES) and the
 
 News
 ======
+* May 2023: Abhinay presented his research at the International Symposium on Aviation Psychology and was selected as a finalist in the Stanley Roscoe Best Student Paper competition!
 * April 2023: Abhinay passed his candidacy exam
 * April 2023: Jacob successfully defended his MS thesis on "Evaluating Team Coordination Strategies and Performance Outcomes in Human-Robot Joint Activity"
 * April 2023: Renske successfully defended her MS thesis on "The Development of Visual Aids and Design Processes to Support Safety Assessments of Complex Automated Systems"
