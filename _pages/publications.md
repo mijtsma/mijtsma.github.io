@@ -17,10 +17,20 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 \[J1\] Pritchett, A. R., Bhattacharyya, R. P., & **IJtsma, M.** (2016). Computational Assessment of Authority and Responsibility in Air Traffic Concepts of Operation. *Journal of Air Transportation, 24*(3), 93-101. [`pdf`](https://doi.org/10.2514/1.D0024)
 
+# Journal Articles in Review
+
+\[J7\] **IJtsma, M.**, Keller, J., Albert, K., McSherry, L. (In Review). Investigating How Robotic Cooperative Competencies Relate to Strategy Selection in Human-Robot Joint Activity. *International Journal of Social Robotics.*
+
+\[J6\] Barrett, E., Paladugu, A., & **IJtsma, M.** (In Review). Multi-Agent Simulation to Envision Communication Strategies in Future Air Mobility Operations. *Journal of Aerospace Information Systems.*
+
 # Book Chapters
 \[B1\] **IJtsma, M.**, Ma, L.M., Feigh, K.M., & Pritchett, A.R. (2019). Analysis of Work Dynamics for Objective Function Allocation in Manned Spaceflight Operations. In M.A. Vidulich & P. Tsang (Eds.), *Improving Aviation Performance through Applying Engineering Psychology, Advances in Aviation Psychology*.
 
 # Conference Papers
+\[C21\] Fernandes, A., Wilson, S., **IJtsma, M.**, Paladugu, A., Davis, T., & Lichty, J. (2023). Contingency Planning Toolkit for Emerging Air Mobility Ecosystems. In AIAA AVIATION 2023 Forum (p. 3552). Chicago
+
+\[C20\] Paladugu, A., Fernandes, A., Wilson, S., Davis, T., Lichty, J., **IJtsma, M.** (2023). *Evaluating Envisioned Air Mobility Architectures Using Computational Simulations of Work*. Paper presented at the International Symposium on Aviation Psychology. Rochester, NY.
+
 \[C19\] **IJtsma, M.** (2022). *Situated Work in Teams: Modeling Coordination through Extending Strategies Analysis and Contextual Control*. Paper presented at the Human Factors and Ergonomics Society Annual Meeting, Atlanta, GA.
 
 \[C18\] Paladugu, A., Nijveldt, R., Cassidy, K., & **IJtsma, M.** (2022). *Strategy Selection in Teams: Exploring How Teams Coordinate Responses to Time Pressure*. Paper presented at the Human Factors and Ergonomics Society Annual Meeting, Atlanta, GA.
