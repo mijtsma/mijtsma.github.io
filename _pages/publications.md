@@ -17,7 +17,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 \[J1\] Pritchett, A. R., Bhattacharyya, R. P., & **IJtsma, M.** (2016). Computational Assessment of Authority and Responsibility in Air Traffic Concepts of Operation. *Journal of Air Transportation, 24*(3), 93-101. [`pdf`](https://doi.org/10.2514/1.D0024)
 
-# Journal Articles in Review
+# Manuscripts in Review
 
 \[J7\] **IJtsma, M.**, Keller, J., Albert, K., McSherry, L. (In Review). Investigating How Robotic Cooperative Competencies Relate to Strategy Selection in Human-Robot Joint Activity. *International Journal of Social Robotics.*
 
