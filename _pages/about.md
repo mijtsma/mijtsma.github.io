@@ -10,7 +10,7 @@ redirect_from:
 
 ---
 
-**_&#9432;  OPEN PHD POSITION:_**  ***I'm looking for a PhD to support our latest NSF project, starting January 2023. Full details on the position can be found [here](https://mijtsma.github.io/files/csel_phd_position.pdf).***
+**_&#9432;  OPEN PHD POSITION:_**  ***I'm looking for a PhD to support our latest NSF project, starting January 2024. Full details on the position can be found [here](https://mijtsma.github.io/files/csel_phd_position.pdf).***
 
 ---
 
