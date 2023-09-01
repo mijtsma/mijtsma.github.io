@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-**_&#9432; OPEN PHD POSITION:_**  I'm looking for a PhD to support our latest NSF project, starting January 2023. Full details on the position can be found [here](https://mijtsma.github.io/files/csel_phd_position.pdf).
+---
+
+**_&#9432;  OPEN PHD POSITION:_**  ***I'm looking for a PhD to support our latest NSF project, starting January 2023. Full details on the position can be found [here](https://mijtsma.github.io/files/csel_phd_position.pdf).***
+
+---
 
 I am an assistant professor in the Integrated Systems Engineering department at the Ohio State University (OSU) with a courtesy appointment in the Department of Mechanical and Aerospace Engineering. My research interests evolve around operations of heterogeneous multi-agent systems in naturalistic, high-complexity environments. This includes research on human-AI/robot teaming (HART) and technology-supported human-human coordination and collaboration to improve the safety and resilience of high-stakes operations. This research contributes to a variety of domains of practice, such as air traffic management, spaceflight operations, smart mobility, and disaster response operations. 
 
