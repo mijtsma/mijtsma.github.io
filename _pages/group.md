@@ -11,9 +11,9 @@ If you're interested in joining our research group, please see [this note](#join
 
 # Current Students
 - Abhinay Paladugu, Ph.D. Candidate
-- Abigail Post, Ph.D. student
-- Connor Kannally, MS student
-- Joan Smith, MS student
+- Abigail Post, Ph.D. Student
+- Connor Kannally, Ph.D. Student
+- Joan Smith, MS Student
 
 # Past Advisees
 - Renske Nijveldt (MS 2023) *Current position*: Human Factors Engineer, Boeing
