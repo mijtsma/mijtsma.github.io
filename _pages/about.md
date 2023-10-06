@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
----
+<!-- ---
 
 **_&#9432;  OPEN PHD POSITION:_**  ***I'm looking for a PhD to support our latest NSF project, starting January 2024. Full details on the position can be found [here](https://mijtsma.github.io/files/csel_phd_position.pdf).***
 
----
+--- -->
 
 I am an assistant professor in the Integrated Systems Engineering department at the Ohio State University (OSU) with a courtesy appointment in the Department of Mechanical and Aerospace Engineering. My research interests evolve around operations of heterogeneous multi-agent systems in naturalistic, high-complexity environments. This includes research on human-AI/robot teaming (HART) and technology-supported human-human coordination and collaboration to improve the safety and resilience of high-stakes operations. This research contributes to a variety of domains of practice, such as air traffic management, spaceflight operations, smart mobility, and disaster response operations. 
 
@@ -25,6 +25,10 @@ I am an active member of the Human Factors and Ergonomics Society (HFES) and the
 
 News
 ======
+* October 2023: I gave a seminar at Rutgers University Department of Industrial Systems Engineering
+* August 2023: We received a NASA Phase-2 SBIR award for our research with Mosaic ATM on Advanced Air Mobility
+* July 2023: I was a speaker at 2023's AIAA Intelligent Systems workshop
+* May 2023: I was a speaker at the FAA's “New and Emerging Aviation Technologies" seminar series
 * May 2023: Abhinay presented his research at the International Symposium on Aviation Psychology and was selected as a finalist in the Stanley Roscoe Best Student Paper competition!
 * April 2023: Abhinay passed his candidacy exam
 * April 2023: Jacob successfully defended his MS thesis on "Evaluating Team Coordination Strategies and Performance Outcomes in Human-Robot Joint Activity"
