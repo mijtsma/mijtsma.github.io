@@ -13,6 +13,7 @@ If you're interested in joining our research group, please see [this note](#join
 - Abhinay Paladugu, Ph.D. Candidate
 - Abigail Post, Ph.D. Student
 - Connor Kannally, Ph.D. Student
+- Sal Hargis, Ph.D. Student
 - Joan Smith, MS Student
 
 # Past Advisees

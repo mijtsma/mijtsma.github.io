@@ -19,15 +19,19 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 # Manuscripts in Review
 
+\[J8\] Kannally, C., Paladugu, A., Nijveldt, R., McSherry, L. & **IJtsma, M.** (In Review). An Exploratory Study of Contextual Control Modes in Teamwork. *Human Factors*.
+
 \[J7\] **IJtsma, M.**, Keller, J., Albert, K., McSherry, L. (In Review). Investigating How Robotic Cooperative Competencies Relate to Strategy Selection in Human-Robot Joint Activity. *International Journal of Social Robotics.*
 
-\[J6\] Barrett, E., Paladugu, A., & **IJtsma, M.** (In Review). Multi-Agent Simulation to Envision Communication Strategies in Future Air Mobility Operations. *Journal of Aerospace Information Systems.*
+\[J6\] Barrett, E., Paladugu, A., & **IJtsma, M.** (In Review). Multi-Agent Simulation to Envision Communication Strategies in Future Air Mobility Operations. *AIAA Journal of Aerospace Information Systems.*
 
 # Book Chapters
 \[B1\] **IJtsma, M.**, Ma, L.M., Feigh, K.M., & Pritchett, A.R. (2019). Analysis of Work Dynamics for Objective Function Allocation in Manned Spaceflight Operations. In M.A. Vidulich & P. Tsang (Eds.), *Improving Aviation Performance through Applying Engineering Psychology, Advances in Aviation Psychology*.
 
 # Conference Papers
-\[C21\] Fernandes, A., Wilson, S., **IJtsma, M.**, Paladugu, A., Davis, T., & Lichty, J. (2023). Contingency Planning Toolkit for Emerging Air Mobility Ecosystems. In AIAA AVIATION 2023 Forum (p. 3552). Chicago
+\[C22\] Kannally, C., Smith, J. & **IJtsma, M.** (2023). Human-AI Teaming in the Automotive and Mobility Industry: Guiding Design to Support Joint Activity. Paper presented at the Human Factors and Ergonomics Society Annual Meeting, Washington DC.
+
+\[C21\] Fernandes, A., Wilson, S., **IJtsma, M.**, Paladugu, A., Davis, T., & Lichty, J. (2023). Contingency Planning Toolkit for Emerging Air Mobility Ecosystems. In AIAA AVIATION 2023 Forum (p. 3552). San Diego
 
 \[C20\] Paladugu, A., Fernandes, A., Wilson, S., Davis, T., Lichty, J., **IJtsma, M.** (2023). *Evaluating Envisioned Air Mobility Architectures Using Computational Simulations of Work*. Paper presented at the International Symposium on Aviation Psychology. Rochester, NY.
 

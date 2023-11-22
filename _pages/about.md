@@ -25,6 +25,8 @@ I am an active member of the Human Factors and Ergonomics Society (HFES) and the
 
 News
 ======
+* October 2023: Awarded a new research grant from the Federal Aviation Administration (FAA) on "Pilot Interactions with Advanced Flight Deck Technologies"!
+* October 2023: PhD student Connor Kannally presented a paper at the Human Factors and Ergonomics' Annual Meeting in Washington DC
 * October 2023: I gave a seminar at Rutgers University Department of Industrial Systems Engineering
 * August 2023: We received a NASA Phase-2 SBIR award for our research with Mosaic ATM on Advanced Air Mobility
 * July 2023: I was a speaker at 2023's AIAA Intelligent Systems workshop

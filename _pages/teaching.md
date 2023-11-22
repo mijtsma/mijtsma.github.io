@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 ## ISE 7720 – Models and Methods for Cognitive Systems Engineering
-*Autum 2020, 2021, 2022*
+*Autum 2020, 2021, 2022, 2024*
 
 Covers models of human-machine systems and methods to study human-machine systems in complex work settings.
 
