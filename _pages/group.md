@@ -14,6 +14,7 @@ If you're interested in joining our research group, please see [this note](#join
 - Abigail Post, Ph.D. Student
 - Connor Kannally, Ph.D. Student
 - Sal Hargis, Ph.D. Student
+- Alex Enchanove, Ph.D. Student
 - Joan Smith, MS Student
 
 # Past Advisees
