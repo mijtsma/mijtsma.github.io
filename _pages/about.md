@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
----
+<!-- ---
 
 **_&#9432;  Open undergraduate research positions:_**  ***I'm looking for two UG researchers to support our latest projects, for the remainder of SP24 semester (~10 hours/week) with an option to extend into SU24 (~20-30 hours/week). Full details on the position can be found [here](https://mijtsma.github.io/files/20240305_undergraduate_position_description.pdf).***
 
----
+--- -->
 
 I am an assistant professor in the Integrated Systems Engineering department at the Ohio State University (OSU) with a courtesy appointment in the Department of Mechanical and Aerospace Engineering. My research interests evolve around operations of heterogeneous multi-agent systems in naturalistic, high-complexity environments. This includes research on human-AI/robot teaming (HART) and technology-supported human-human coordination and collaboration to improve the safety and resilience of high-stakes operations. This research contributes to a variety of domains of practice, such as air traffic management, spaceflight operations, smart mobility, and disaster response operations. 
 
