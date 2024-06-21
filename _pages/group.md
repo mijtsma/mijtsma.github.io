@@ -15,9 +15,9 @@ If you're interested in joining our research group, please see [this note](#join
 - Connor Kannally, Ph.D. Student
 - Sal Hargis, Ph.D. Student
 - Alex Enchanove, Ph.D. Student
-- Joan Smith, MS Student
 
 # Past Advisees
+- Joan Smith (MS 2024) *Current position*: Strategy Lead, 99P Labs
 - Renske Nijveldt (MS 2023) *Current position*: Human Factors Engineer, Boeing
 - Jacob Keller (MS 2023) *Current position*: Human Systems Engineer, NASA
 - Ken Cassidy (MS 2023) *Current position*: US Army

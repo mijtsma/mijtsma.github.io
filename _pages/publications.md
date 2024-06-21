@@ -7,6 +7,8 @@ author_profile: true
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=CepXXxYAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
 # Journal Articles
+\[J6\] Barrett, E., Paladugu, A., & **IJtsma, M.** (In Press). Multi-Agent Simulation to Envision Communication Strategies in Future Air Mobility Operations. *AIAA Journal of Aerospace Information Systems.*
+
 \[J5\] Keller, J.R., **IJtsma, M.**, Newton, E.K. (2023). Examining autonomous flight safety systems from a cognitive systems engineering perspective: Challenges, themes, and outlying risks. *Journal of Space Safety Engineering, 10*(1), 76-81. [`pdf`](ttps://doi.org/10.1016/j.jsse.2022.11.005)
 
 \[J4\] **IJtsma, M.**, Borst, C., Mulder, M., & Van Paassen, M.M. (2022). Evaluation of a Decision-Based Invocation Strategy for Adaptive Support for Air Traffic Control. *IEEE Transactions on Human-Machine Systems, 52*(6), 1135-1146. [`pdf`](https://doi.org/10.1109/THMS.2022.3208817)
@@ -19,11 +21,11 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 # Manuscripts in Review
 
+\[J9\] **IJtsma, M.** & Hargis, S. (In Review). Identifying and Analyzing Human and Robot Teaming Strategies through Network Representations of Work. *IEEE Transactions on Human-Machine Systems*.
+
 \[J8\] Kannally, C., Paladugu, A., Nijveldt, R., McSherry, L. & **IJtsma, M.** (In Review). An Exploratory Study of Contextual Control Modes in Teamwork. *Human Factors*.
 
 \[J7\] **IJtsma, M.**, Keller, J., Albert, K., McSherry, L. (In Review). Investigating How Robotic Cooperative Competencies Relate to Strategy Selection in Human-Robot Joint Activity. *International Journal of Social Robotics.*
-
-\[J6\] Barrett, E., Paladugu, A., & **IJtsma, M.** (In Review). Multi-Agent Simulation to Envision Communication Strategies in Future Air Mobility Operations. *AIAA Journal of Aerospace Information Systems.*
 
 # Book Chapters
 \[B1\] **IJtsma, M.**, Ma, L.M., Feigh, K.M., & Pritchett, A.R. (2019). Analysis of Work Dynamics for Objective Function Allocation in Manned Spaceflight Operations. In M.A. Vidulich & P. Tsang (Eds.), *Improving Aviation Performance through Applying Engineering Psychology, Advances in Aviation Psychology*.
