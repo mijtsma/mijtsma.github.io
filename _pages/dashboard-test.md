@@ -9,9 +9,8 @@ redirect_from:
 ---
 
 <iframe
-    src="https://huggingface.co/spaces/mijtsma3/dashboard-test"
-    width="100%"
-    height="500px"
-    frameborder="0"
-    allowfullscreen
+	src="https://mijtsma3-dashboard-test.hf.space"
+	frameborder="0"
+	width="850"
+	height="450"
 ></iframe>
