@@ -25,11 +25,15 @@ I am an active member of the Human Factors and Ergonomics Society (HFES) and the
 
 News
 ======
+* July 2024: Our work on using computational modeling and simulation to analyze communication strategies was published in the AIAA Journal of Aerospace Information Systems
+* April 2024: My students presented their research at Ohio's Advanced Air Mobility Symposium
+* November 2023: Abhinay presented during the graduate colloquium on his dissertation research titled "Building Safe and Efficient Joint Cognitive Systems Using Modeling and Simulation"!
 * October 2023: Awarded a new research grant from the Federal Aviation Administration (FAA) on "Pilot Interactions with Advanced Flight Deck Technologies"!
 * October 2023: PhD student Connor Kannally presented a paper at the Human Factors and Ergonomics' Annual Meeting in Washington DC
 * October 2023: I gave a seminar at Rutgers University Department of Industrial Systems Engineering
 * August 2023: We received a NASA Phase-2 SBIR award for our research with Mosaic ATM on Advanced Air Mobility
 * July 2023: I was a speaker at 2023's AIAA Intelligent Systems workshop
+* May 2023: Two of my graduate students, Connor and Abhinay, [were awarded a University Student Research Challenge grant from NASA](https://ise.osu.edu/news/2023/11/nasa-awards-80k-ohio-state-students-through-university-research-challenge)
 * May 2023: I was a speaker at the FAA's “New and Emerging Aviation Technologies" seminar series
 * May 2023: Abhinay presented his research at the International Symposium on Aviation Psychology and was selected as a finalist in the Stanley Roscoe Best Student Paper competition!
 * April 2023: Abhinay passed his candidacy exam
