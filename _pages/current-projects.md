@@ -13,9 +13,9 @@ The deployment of smart robots promises increased safety, productivity, and capa
 
 ### Featured Publications and Links
 
-["IJtsma’s NSF CAREER award will advance human-robot collaboration", Ohio State College of Engineering News, 2023](https://engineering.osu.edu/news/2023/03/ijtsmas-nsf-career-award-will-advance-human-robot-collaboration)
-["Promising young researchers earn NSF CAREER awards", Ohio State College of Engineering News, 2023](https://engineering.osu.edu/news/2023/10/promising-young-researchers-earn-nsf-career-awards)
-["Award # 2238402 - CAREER: Making Robots More Cooperative Agents: Controlling Costs of Coordination Through Graph-Based Models of Joint Activity"](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2238402&HistoricalAwards=false)
+- ["IJtsma’s NSF CAREER award will advance human-robot collaboration", Ohio State College of Engineering News, 2023](https://engineering.osu.edu/news/2023/03/ijtsmas-nsf-career-award-will-advance-human-robot-collaboration)
+- ["Promising young researchers earn NSF CAREER awards", Ohio State College of Engineering News, 2023](https://engineering.osu.edu/news/2023/10/promising-young-researchers-earn-nsf-career-awards)
+- ["Award # 2238402 - CAREER: Making Robots More Cooperative Agents: Controlling Costs of Coordination Through Graph-Based Models of Joint Activity"](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2238402&HistoricalAwards=false)
 
 
 ## Contingency Planning for Advanced Air Mobility (AAM) 
@@ -24,9 +24,9 @@ CSEL in collaboration with Mosaic ATM is working on building a Contingency Plann
 
 ### Featured Publications
 
-[“Future of air mobility latest NASA-ISE collaboration”, Ohio State College of Engineering News, 2022](https://engineering.osu.edu/news/2022/12/future-air-mobility-focus-latest-nasa-collaboration)
-["Fernandes, A., Wilson, S., IJtsma, M., Paladugu, A., Davis, T., & Lichty, J. (2023). Contingency Planning Toolkit for Emerging Air Mobility Ecosystems. In AIAA AVIATION 2023 Forum (p. 3552). San Diego"](https://doi.org/10.2514/6.2023-3552)
-["Paladugu, A., Fernandes, A., Wilson, S., Davis, T., Lichty, J., IJtsma, M. (2023). Evaluating Envisioned Air Mobility Architectures Using Computational Simulations of Work. Paper presented at the International Symposium on Aviation Psychology. Rochester, NY."](https://corescholar.libraries.wright.edu/cgi/viewcontent.cgi?article=1001&&context=isap_2023&&sei-redir=1&referer=https%253A%252F%252Fscholar.google.com%252Fscholar%253Fhl%253Den%2526as_sdt%253D0%25252C36%2526q%253DEvaluating%252BEnvisioned%252BAir%252BMobility%252BArchitectures%252BUsing%252BComputational%252BSimulations%252Bof%252BWork%2526btnG%253D#search=%22Evaluating%20Envisioned%20Air%20Mobility%20Architectures%20Using%20Computational%20Simulations%20Work%22)
+- [“Future of air mobility latest NASA-ISE collaboration”, Ohio State College of Engineering News, 2022](https://engineering.osu.edu/news/2022/12/future-air-mobility-focus-latest-nasa-collaboration)
+- ["Fernandes, A., Wilson, S., IJtsma, M., Paladugu, A., Davis, T., & Lichty, J. (2023). Contingency Planning Toolkit for Emerging Air Mobility Ecosystems. In AIAA AVIATION 2023 Forum (p. 3552). San Diego"](https://doi.org/10.2514/6.2023-3552)
+- ["Paladugu, A., Fernandes, A., Wilson, S., Davis, T., Lichty, J., IJtsma, M. (2023). Evaluating Envisioned Air Mobility Architectures Using Computational Simulations of Work. Paper presented at the International Symposium on Aviation Psychology. Rochester, NY."](https://corescholar.libraries.wright.edu/cgi/viewcontent.cgi?article=1001&&context=isap_2023&&sei-redir=1&referer=https%253A%252F%252Fscholar.google.com%252Fscholar%253Fhl%253Den%2526as_sdt%253D0%25252C36%2526q%253DEvaluating%252BEnvisioned%252BAir%252BMobility%252BArchitectures%252BUsing%252BComputational%252BSimulations%252Bof%252BWork%2526btnG%253D#search=%22Evaluating%20Envisioned%20Air%20Mobility%20Architectures%20Using%20Computational%20Simulations%20Work%22)
 
 
 ## Human-AI Teaming in Future Mobility
@@ -35,7 +35,7 @@ This collaboration with 99P Labs envisions new techniques for designing human-AI
 
 ### Featured Publications
 
-["Kannally, C., Smith, J. & IJtsma, M. (2023). Human-AI Teaming in the Automotive and Mobility Industry: Guiding Design to Support Joint Activity. Paper presented at the Human Factors and Ergonomics Society Annual Meeting, Washington DC."](https://doi.org/10.1177/0959651812456333)
+- ["Kannally, C., Smith, J. & IJtsma, M. (2023). Human-AI Teaming in the Automotive and Mobility Industry: Guiding Design to Support Joint Activity. Paper presented at the Human Factors and Ergonomics Society Annual Meeting, Washington DC."](https://doi.org/10.1177/0959651812456333)
 
 
 ## Reliance on Automated or Complex Flight Deck Systems in Commercial Aircraft 
@@ -44,5 +44,5 @@ This project’s objective is to develop methods for identifying and evaluating 
 
 ### Featured Publications
 
-[“ISE studying human factors challenges with complex flight deck automation systems”, BuckISE Newsletter, 2023](https://ise.osu.edu/news/2023/03/ise-studying-human-factors-challenges-complex-flight-deck-automation-systems)
+- [“ISE studying human factors challenges with complex flight deck automation systems”, BuckISE Newsletter, 2023](https://ise.osu.edu/news/2023/03/ise-studying-human-factors-challenges-complex-flight-deck-automation-systems)
 
