@@ -7,7 +7,7 @@ author_profile: true
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=CepXXxYAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
 # Journal Articles
-\[J6\] Barrett, E., Paladugu, A., & **IJtsma, M.** (In Press). Multi-Agent Simulation to Envision Communication Strategies in Future Air Mobility Operations. *AIAA Journal of Aerospace Information Systems.*
+\[J6\] Barrett, E., Paladugu, A., & **IJtsma, M.** (2024). Multi-Agent Simulation to Envision Communication Strategies in Future Air Mobility Operations. *AIAA Journal of Aerospace Information Systems. 21*(8), 605-615. [`pdf`](https://doi.org/10.2514/1.I011239)
 
 \[J5\] Keller, J.R., **IJtsma, M.**, Newton, E.K. (2023). Examining autonomous flight safety systems from a cognitive systems engineering perspective: Challenges, themes, and outlying risks. *Journal of Space Safety Engineering, 10*(1), 76-81. [`pdf`](ttps://doi.org/10.1016/j.jsse.2022.11.005)
 
@@ -31,11 +31,11 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 \[B1\] **IJtsma, M.**, Ma, L.M., Feigh, K.M., & Pritchett, A.R. (2019). Analysis of Work Dynamics for Objective Function Allocation in Manned Spaceflight Operations. In M.A. Vidulich & P. Tsang (Eds.), *Improving Aviation Performance through Applying Engineering Psychology, Advances in Aviation Psychology*.
 
 # Conference Papers
-\[C22\] Kannally, C., Smith, J. & **IJtsma, M.** (2023). Human-AI Teaming in the Automotive and Mobility Industry: Guiding Design to Support Joint Activity. Paper presented at the Human Factors and Ergonomics Society Annual Meeting, Washington DC.
+\[C22\] Kannally, C., Smith, J. & **IJtsma, M.** (2023). Human-AI Teaming in the Automotive and Mobility Industry: Guiding Design to Support Joint Activity. Paper presented at the Human Factors and Ergonomics Society Annual Meeting, Washington DC. [`pdf`](https://doi.org/10.1177/0959651812456333)
 
-\[C21\] Fernandes, A., Wilson, S., **IJtsma, M.**, Paladugu, A., Davis, T., & Lichty, J. (2023). Contingency Planning Toolkit for Emerging Air Mobility Ecosystems. In AIAA AVIATION 2023 Forum (p. 3552). San Diego
+\[C21\] Fernandes, A., Wilson, S., **IJtsma, M.**, Paladugu, A., Davis, T., & Lichty, J. (2023). Contingency Planning Toolkit for Emerging Air Mobility Ecosystems. In AIAA AVIATION 2023 Forum (p. 3552). San Diego [`pdf`](https://doi.org/10.2514/6.2023-3552)
 
-\[C20\] Paladugu, A., Fernandes, A., Wilson, S., Davis, T., Lichty, J., **IJtsma, M.** (2023). *Evaluating Envisioned Air Mobility Architectures Using Computational Simulations of Work*. Paper presented at the International Symposium on Aviation Psychology. Rochester, NY.
+\[C20\] Paladugu, A., Fernandes, A., Wilson, S., Davis, T., Lichty, J., **IJtsma, M.** (2023). *Evaluating Envisioned Air Mobility Architectures Using Computational Simulations of Work*. Paper presented at the International Symposium on Aviation Psychology. Rochester, NY. [`pdf`](https://corescholar.libraries.wright.edu/cgi/viewcontent.cgi?article=1001&&context=isap_2023&&sei-redir=1&referer=https%253A%252F%252Fscholar.google.com%252Fscholar%253Fhl%253Den%2526as_sdt%253D0%25252C36%2526q%253DEvaluating%252BEnvisioned%252BAir%252BMobility%252BArchitectures%252BUsing%252BComputational%252BSimulations%252Bof%252BWork%2526btnG%253D#search=%22Evaluating%20Envisioned%20Air%20Mobility%20Architectures%20Using%20Computational%20Simulations%20Work%22)
 
 \[C19\] **IJtsma, M.** (2022). *Situated Work in Teams: Modeling Coordination through Extending Strategies Analysis and Contextual Control*. Paper presented at the Human Factors and Ergonomics Society Annual Meeting, Atlanta, GA.
 
