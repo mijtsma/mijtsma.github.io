@@ -20,7 +20,7 @@ The deployment of smart robots promises increased safety, productivity, and capa
 
 ## Contingency Planning for Advanced Air Mobility (AAM) 
 
-CSEL in collaboration with Mosaic ATM is working on building a Contingency Planning Toolkit for Advanced Air Mobility. The project develops and applies novel modeling and simulation techniques for evaluating candidate architectures and identify requirements for distributed AAM contingency planning. Through fast-time simulation, we can identify what is necessary to (1) create feasible concepts of operations that create the desired outcomes, (2) conduct comparisons between different system architectures and strategies for responding to contingencies, and (3) identify where further resources need to be invested to improve the robustness of envisioned concepts.
+This project, led by Mosaic ATM, works on building a Contingency Planning Toolkit for Advanced Air Mobility. Our role is to develop and apply novel modeling and simulation techniques for evaluating candidate architectures and identify requirements for distributed AAM contingency planning. Through fast-time simulation, we can identify what is necessary to (1) create feasible concepts of operations that create the desired outcomes, (2) conduct comparisons between different system architectures and strategies for responding to contingencies, and (3) identify where further resources need to be invested to improve the robustness of envisioned concepts.
 
 ### Featured Publications
 
