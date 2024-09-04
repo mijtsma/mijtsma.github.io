@@ -1,4 +1,4 @@
----
+<!-- ---
 permalink: /dashboard-test/
 title: "Test of the AAM Demo"
 excerpt: "This is a page not in th emain menu"
@@ -13,4 +13,11 @@ redirect_from:
 	frameborder="0"
 	width="850"
 	height="450"
-></iframe>
+></iframe> -->
+
+---
+layout: fullscreen
+permalink: /aam-demo/
+title: "Test of the AAM Demo"
+iframe_url: "https://mijtsma3-aam-demo.hf.space"
+---
