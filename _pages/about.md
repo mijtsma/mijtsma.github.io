@@ -25,6 +25,7 @@ I am an active member of the Human Factors and Ergonomics Society (HFES) and the
 
 News
 ======
+* September 2024: Abigail Post won best student paper award with the Cognitive Engineering and Decision Making Technical Group at HFES!
 * August 2024: Abigail passed her candidacy exam!
 * July 2024: Our work on using computational modeling and simulation to analyze communication strategies was published in the AIAA Journal of Aerospace Information Systems
 * April 2024: My students presented their research at Ohio's Advanced Air Mobility Symposium
