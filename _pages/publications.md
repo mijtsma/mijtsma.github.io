@@ -31,11 +31,11 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 \[B1\] **IJtsma, M.**, Ma, L.M., Feigh, K.M., & Pritchett, A.R. (2019). Analysis of Work Dynamics for Objective Function Allocation in Manned Spaceflight Operations. In M.A. Vidulich & P. Tsang (Eds.), *Improving Aviation Performance through Applying Engineering Psychology, Advances in Aviation Psychology*.
 
 # Conference Papers
-\[C25\] Abigail Post, Renske Nijveldt, David D. Woods & **IJtsma, M.** (2024). Determining What’s Next: Visual Analytics for Evaluating Human-Automation Coordination. Paper presented at the Human Factors and Ergonomics Society Annual Meeting, Phoenix. [`pdf`](https://doi.org/10.1177/10711813241276459)
+\[C25\] Post, A., Nijveldt, R., Woods D.D. & **IJtsma, M.** (2024). Determining What’s Next: Visual Analytics for Evaluating Human-Automation Coordination. Paper presented at the Human Factors and Ergonomics Society Annual Meeting, Phoenix. [`pdf`](https://doi.org/10.1177/10711813241276459)
 
-\[C24\] Abhinay Paladugu, Alicia Fernandes & **IJtsma, M.** (2024). The Use of Computational Modeling and Simulation to Design and Evaluate a Distributed Work System. Paper presented at the Human Factors and Ergonomics Society Annual Meeting, Phoenix. [`pdf`](https://doi.org/10.1177/10711813241276450)
+\[C24\] Paladugu, A., Fernandes, A. & **IJtsma, M.** (2024). The Use of Computational Modeling and Simulation to Design and Evaluate a Distributed Work System. Paper presented at the Human Factors and Ergonomics Society Annual Meeting, Phoenix. [`pdf`](https://doi.org/10.1177/10711813241276450)
 
-<!-- \[C23\] Kannally, C., Smith, J. & **IJtsma, M.** (2024). Human-AI Teaming in the Automotive and Mobility Industry: Guiding Design to Support Joint Activity. Paper presented at the Human Factors and Ergonomics Society Annual Meeting, Phoenix. [`pdf`](https://doi.org/10.1177/0959651812456333) -->
+\[C23\] Hargis, S. & **IJtsma, M.** (2024). Functional Models of Work to Examine Human-Robot Coordination in Disaster Response. Paper presented at the Human Factors and Ergonomics Society Annual Meeting, Phoenix. [`pdf`](https://doi.org/10.1177/10711813241276478)
 
 \[C22\] Kannally, C., Smith, J. & **IJtsma, M.** (2023). Human-AI Teaming in the Automotive and Mobility Industry: Guiding Design to Support Joint Activity. Paper presented at the Human Factors and Ergonomics Society Annual Meeting, Washington DC. [`pdf`](https://doi.org/10.1177/0959651812456333)
 
