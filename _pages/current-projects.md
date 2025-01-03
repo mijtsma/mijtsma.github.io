@@ -13,6 +13,8 @@ The deployment of smart robots promises increased safety, productivity, and capa
 
 ### Featured Publications and Links
 
+- [Our open-source Python library for graph-based modeling of joint activity](https://github.com/mijtsma/jsat)
+- [Interactive demo of one of our graph representations of the work involved in human-robot coordination](https://mijtsma.github.io/hrt-demo/)
 - ["IJtsma’s NSF CAREER award will advance human-robot collaboration", Ohio State College of Engineering News, 2023](https://engineering.osu.edu/news/2023/03/ijtsmas-nsf-career-award-will-advance-human-robot-collaboration)
 - ["Promising young researchers earn NSF CAREER awards", Ohio State College of Engineering News, 2023](https://engineering.osu.edu/news/2023/10/promising-young-researchers-earn-nsf-career-awards)
 - ["Award # 2238402 - CAREER: Making Robots More Cooperative Agents: Controlling Costs of Coordination Through Graph-Based Models of Joint Activity"](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2238402&HistoricalAwards=false)
@@ -24,6 +26,7 @@ This project, led by Mosaic ATM, works on building a Contingency Planning Toolki
 
 ### Featured Publications
 
+- [Interactive demo of simulation results](https://mijtsma.github.io/aam-demo/)
 - [“Future of air mobility latest NASA-ISE collaboration”, Ohio State College of Engineering News, 2022](https://engineering.osu.edu/news/2022/12/future-air-mobility-focus-latest-nasa-collaboration)
 - ["Fernandes, A., Wilson, S., IJtsma, M., Paladugu, A., Davis, T., & Lichty, J. (2023). Contingency Planning Toolkit for Emerging Air Mobility Ecosystems. In AIAA AVIATION 2023 Forum (p. 3552). San Diego"](https://doi.org/10.2514/6.2023-3552)
 - ["Paladugu, A., Fernandes, A., Wilson, S., Davis, T., Lichty, J., IJtsma, M. (2023). Evaluating Envisioned Air Mobility Architectures Using Computational Simulations of Work. Paper presented at the International Symposium on Aviation Psychology. Rochester, NY."](https://corescholar.libraries.wright.edu/cgi/viewcontent.cgi?article=1001&&context=isap_2023&&sei-redir=1&referer=https%253A%252F%252Fscholar.google.com%252Fscholar%253Fhl%253Den%2526as_sdt%253D0%25252C36%2526q%253DEvaluating%252BEnvisioned%252BAir%252BMobility%252BArchitectures%252BUsing%252BComputational%252BSimulations%252Bof%252BWork%2526btnG%253D#search=%22Evaluating%20Envisioned%20Air%20Mobility%20Architectures%20Using%20Computational%20Simulations%20Work%22)
