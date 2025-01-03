@@ -25,8 +25,12 @@ I am an active member of the Human Factors and Ergonomics Society (HFES) and the
 
 News
 ======
+* December 2024: Connor Kannally successfully defended his MS thesis.
+* November 2024: Our work on contextual control in distributed work was published in Human Factors.
+* November 2024: Abhinay Paladugu successfully defended his PhD dissertation.
 * September 2024: Abigail Post won best student paper award with the Cognitive Engineering and Decision Making Technical Group at HFES!
 * August 2024: Abigail passed her candidacy exam!
+* July 2024: Awarded a new grant from NASA, together with Applied Decision Science.
 * July 2024: Our work on using computational modeling and simulation to analyze communication strategies was published in the AIAA Journal of Aerospace Information Systems
 * April 2024: My students presented their research at Ohio's Advanced Air Mobility Symposium
 * November 2023: Abhinay presented during the graduate colloquium on his dissertation research titled "Building Safe and Efficient Joint Cognitive Systems Using Modeling and Simulation"!

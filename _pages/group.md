@@ -9,14 +9,16 @@ Our group is part of the Cognitive Systems Engineering Lab. Check out [CSEL's we
 
 If you're interested in joining our research group, please see [this note](#join-our-group).
 
+# Postdoctoral Researchers
+- Abhinay Paladugu, Ph.D.
+
 # Current Students
-- Abhinay Paladugu, Ph.D. Candidate
-- Abigail Post, Ph.D. Student
+- Abigail Post, Ph.D. Candidate
 - Connor Kannally, Ph.D. Student
 - Sal Hargis, Ph.D. Student
-- Alex Enchanove, Ph.D. Student
 
 # Past Advisees
+- Abhinay Paladugu (Ph.D. 2024) *Current position*: Postdoctoral researcher
 - Joan Smith (MS 2024) *Current position*: Strategy Lead, 99P Labs
 - Renske Nijveldt (MS 2023) *Current position*: Human Factors Engineer, Boeing
 - Jacob Keller (MS 2023) *Current position*: Human Systems Engineer, NASA

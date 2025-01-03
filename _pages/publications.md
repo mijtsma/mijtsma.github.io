@@ -7,7 +7,7 @@ author_profile: true
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=CepXXxYAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
 # Journal Articles
-\[J7\] Kannally, C., Paladugu, A., Nijveldt, R., McSherry, L. & **IJtsma, M.** (In Press). An Exploratory Study of Contextual Control Modes in Teamwork. *Human Factors*.
+\[J7\] Kannally, C., Paladugu, A., Nijveldt, R., McSherry, L. & **IJtsma, M.** (2024). An Exploratory Study of Contextual Control Modes in Teamwork. *Human Factors*. [`pdf`](https://doi.org/10.1177/00187208241292669)
 
 \[J6\] Barrett, E., Paladugu, A., & **IJtsma, M.** (2024). Multi-Agent Simulation to Envision Communication Strategies in Future Air Mobility Operations. *AIAA Journal of Aerospace Information Systems. 21*(8), 605-615. [`pdf`](https://doi.org/10.2514/1.I011239)
 
@@ -23,9 +23,12 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 # Manuscripts in Review
 
+\[J10\] Paladugu, A., Fernandes, A., & **IJtsma, M.**. (In Review). Computational Simulation of Distributed Work as a Discovery Tool for Envisioning Future Operations
+. *Journal of Cognitive Engineering and Decision Making*.
+
 \[J9\] **IJtsma, M.** & Hargis, S. (In Review). Identifying and Analyzing Human and Robot Teaming Strategies through Network Representations of Work. *IEEE Transactions on Human-Machine Systems*.
 
-\[J7\] **IJtsma, M.**, Keller, J., Albert, K., McSherry, L. (In Review). Investigating How Robotic Cooperative Competencies Relate to Strategy Selection in Human-Robot Joint Activity. *International Journal of Social Robotics.*
+\[J8\] **IJtsma, M.**, Keller, J., Albert, K., McSherry, L. (In Review). Investigating How Robotic Cooperative Competencies Relate to Strategy Selection in Human-Robot Joint Activity. *International Journal of Social Robotics.*
 
 # Book Chapters
 \[B1\] **IJtsma, M.**, Ma, L.M., Feigh, K.M., & Pritchett, A.R. (2019). Analysis of Work Dynamics for Objective Function Allocation in Manned Spaceflight Operations. In M.A. Vidulich & P. Tsang (Eds.), *Improving Aviation Performance through Applying Engineering Psychology, Advances in Aviation Psychology*.
