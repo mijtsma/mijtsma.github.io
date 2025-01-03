@@ -4,6 +4,11 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+## ISE 7700 – Advanced Topics in Cognitive Systems Engineering
+*Spring 2025*
+
+Discusses advanced topics in cognitive systems engineering through weekly reading and class discussions.
+
 ## ISE 7720 – Models and Methods for Cognitive Systems Engineering
 *Autum 2020, 2021, 2022, 2024*
 
