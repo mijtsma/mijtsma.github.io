@@ -34,6 +34,8 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 \[B1\] **IJtsma, M.**, Ma, L.M., Feigh, K.M., & Pritchett, A.R. (2019). Analysis of Work Dynamics for Objective Function Allocation in Manned Spaceflight Operations. In M.A. Vidulich & P. Tsang (Eds.), *Improving Aviation Performance through Applying Engineering Psychology, Advances in Aviation Psychology*.
 
 # Conference Papers
+\[C26\] Fernandes, A., Zabara, K., Epps, K., **IJtsma, M.**, Paladugu, A., & Calhoun, S. (2025). Use of Model Based System Engineering to Drive UAM Contingency Management Procedure Design. Paper presented at AIAA Scitech 2025 Forum, Orlando, FL. [`pdf`](https://doi.org/10.2514/6.2025-2529)
+
 \[C25\] Post, A., Nijveldt, R., Woods D.D. & **IJtsma, M.** (2024). Determining What’s Next: Visual Analytics for Evaluating Human-Automation Coordination. Paper presented at the Human Factors and Ergonomics Society Annual Meeting, Phoenix. [`pdf`](https://doi.org/10.1177/10711813241276459)
 
 \[C24\] Paladugu, A., Fernandes, A. & **IJtsma, M.** (2024). The Use of Computational Modeling and Simulation to Design and Evaluate a Distributed Work System. Paper presented at the Human Factors and Ergonomics Society Annual Meeting, Phoenix. [`pdf`](https://doi.org/10.1177/10711813241276450)
