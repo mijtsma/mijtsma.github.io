@@ -21,10 +21,11 @@ I lead a group of graduate and undergraduate students as part of the [Cognitive 
 
 I teach [several courses](https://mijtsma.github.io/teaching/) at the undergraduate and graduate levels. These courses are open to ISE/MAE students and students from other departments and majors. I encourage anyone interested in systems integration of human and AI/robotic capabilities to sign up for these courses. More courses, also ones offered by my colleagues on similar topics, can be found on the [CSEL course page](https://u.osu.edu/csel/cognitive-systems-engineering-courses/).
 
-I am an active member of the Human Factors and Ergonomics Society (HFES) and the American Institute of Aeronautics and Astronautics (AIAA).
+I am an associate editor for the Journal of Cognitive Engineering and Decision Making, program chair for the Human Factors and Ergonomics Society Annual Meeting (ASPIRE), and a member of the American Institute of Aeronautics and Astronautics (AIAA).
 
 News
 ======
+* March 2025: Our work on computational modeling and simulation as a discovery tool for envisioning future operations involving distributed work was accepted for publication in the Journal of Cognitive Engineering and Decision Making
 * December 2024: Connor Kannally successfully defended his MS thesis.
 * November 2024: Our work on contextual control in distributed work was published in Human Factors.
 * November 2024: Abhinay Paladugu successfully defended his PhD dissertation.
