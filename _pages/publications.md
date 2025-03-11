@@ -7,7 +7,7 @@ author_profile: true
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=CepXXxYAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
 # Journal Articles
-\[J8\] Paladugu, A., Fernandes, A., & **IJtsma, M.**. (In Review). Computational Simulation of Distributed Work as a Discovery Tool for Envisioning Future Operations. *Journal of Cognitive Engineering and Decision Making*.
+\[J8\] Paladugu, A., Fernandes, A., & **IJtsma, M.**. (In Press). Computational Simulation of Distributed Work as a Discovery Tool for Envisioning Future Operations. *Journal of Cognitive Engineering and Decision Making*.
 
 \[J7\] Kannally, C., Paladugu, A., Nijveldt, R., McSherry, L. & **IJtsma, M.** (2024). An Exploratory Study of Contextual Control Modes in Teamwork. *Human Factors*. [`pdf`](https://doi.org/10.1177/00187208241292669)
 
