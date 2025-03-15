@@ -29,7 +29,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 \[J10\] **IJtsma, M.**, Keller, J., Albert, K., & McSherry, L. (In Review). Investigating How Robotic Cooperative Competencies Relate to Strategy Selection in Human-Robot Joint Activity. *International Journal of Social Robotics.*
 
-\[J11\] Post. A.M., Nijveldt, R., **IJtsma, M.**, & Woods. D.D. (In Review). Investigating How Robotic Cooperative Competencies Relate to Strategy Selection in Human-Robot Joint Activity. *International Journal of Social Robotics.*
+\[J11\] Post. A.M., Nijveldt, R., **IJtsma, M.**, & Woods. D.D. (In Review). Determining What’s Next: Visual Analytics for Evaluating Human-Automation Coordination. *Cognition, Technology & Work.*
 
 # Book Chapters
 \[B1\] **IJtsma, M.**, Ma, L.M., Feigh, K.M., & Pritchett, A.R. (2019). Analysis of Work Dynamics for Objective Function Allocation in Manned Spaceflight Operations. In M.A. Vidulich & P. Tsang (Eds.), *Improving Aviation Performance through Applying Engineering Psychology, Advances in Aviation Psychology*.
