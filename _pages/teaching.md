@@ -15,7 +15,7 @@ Discusses advanced topics in cognitive systems engineering through weekly readin
 Covers models of human-machine systems and methods to study human-machine systems in complex work settings.
 
 ## ISE 5740 – Human-Centered Automation
-*Autumn 2021, 2022, 2023*
+*Autumn 2021, 2022, 2023, 2025*
 
 Provides key concepts to make autonomous systems, robots, and artificially intelligent systems team players with responsible people.
 

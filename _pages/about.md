@@ -25,7 +25,8 @@ I am an associate editor for the Journal of Cognitive Engineering and Decision M
 
 News
 ======
-* March 2025: Our work on computational modeling and simulation as a discovery tool for envisioning future operations involving distributed work was accepted for publication in the Journal of Cognitive Engineering and Decision Making
+* May 2025: Abhinay and Abigail presented their work at the International Symposium on Aviation Psychology.
+* March 2025: Our work on computational modeling and simulation as a discovery tool for envisioning future operations involving distributed work was accepted for publication in the Journal of Cognitive Engineering and Decision Making.
 * December 2024: Connor Kannally successfully defended his MS thesis.
 * November 2024: Our work on contextual control in distributed work was published in Human Factors.
 * November 2024: Abhinay Paladugu successfully defended his PhD dissertation.

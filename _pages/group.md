@@ -17,6 +17,11 @@ If you're interested in joining our research group, please see [this note](#join
 - Connor Kannally, Ph.D. Student
 - Sal Hargis, Ph.D. Student
 
+# Undergraduate Students
+- Jaiden Stratton
+- Joseph Jideonwo
+- Antoine Creamer
+
 # Past Advisees
 - Abhinay Paladugu (Ph.D. 2024) *Current position*: Postdoctoral researcher
 - Joan Smith (MS 2024) *Current position*: Strategy Lead, 99P Labs
@@ -40,7 +45,6 @@ If you're interested in joining our research group, please see [this note](#join
 
 --- -->
 
-**Prospective graduate students**: We are always looking for motivated Ph.D. students
-to join our research group. If you are interested, please apply directly to the [graduate program in Integrated Systems Engineering](https://ise.osu.edu/degrees/graduate-program) and mention my name in your application. If you would like to send me an email, please include your CV and a brief description of your research experience and interests. I apologize in advance as I am unable to respond to all emails.
+**Prospective graduate students**: We are always looking for motivated Ph.D. students to join our research group. If you are interested, please apply directly to the [graduate program in Integrated Systems Engineering](https://ise.osu.edu/degrees/graduate-program) and mention my name in your application. If you would like to send me an email, please include your CV and a brief description of your research experience and interests. I apologize in advance as I am unable to respond to all emails.
 
 **Undergraduate students at OSU**: If you are interested in our group’s research, please send me an email with your CV and a brief description of any past research/project experiences.
