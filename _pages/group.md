@@ -12,12 +12,12 @@ If you're interested in joining our research group, please see [this note](#join
 # Postdoctoral Researchers
 - Abhinay Paladugu, Ph.D.
 
-# Current Students
+# Current Graduate Students
 - Abigail Post, Ph.D. Candidate
 - Connor Kannally, Ph.D. Student
 - Sal Hargis, Ph.D. Student
 
-# Undergraduate Students
+# Current Undergraduate Students
 - Jaiden Stratton
 - Joseph Jideonwo
 - Antoine Creamer
