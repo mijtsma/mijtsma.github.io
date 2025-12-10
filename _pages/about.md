@@ -18,7 +18,7 @@ I am an assistant professor in the Integrated Systems Engineering department at 
 
 My work contributes to a variety of applicatoin domains, including air traffic management, commercial flight deck operations, human spaceflight, and disaster response. 
 
-I lead a team of talented graduate and undergraduate researchers in the [Cognitive Systems Engineering Lab (CSEL)](https://csel.engineering.osu.edu). You can explore our ongoing and past projects on the [Research page](https://u.osu.edu/csel/research-projects/) and view our publications [here](https://mijtsma.github.io/publications/).
+I lead a team of talented graduate and undergraduate researchers in the [Cognitive Systems Engineering Lab (CSEL)](https://csel.engineering.osu.edu). You can explore our ongoing and past projects on the [Research page](https://mijtsma.github.io/current-projects/) and view our publications [here](https://mijtsma.github.io/publications/).
 
 I teach [undergraduate and graduate courses](https://mijtsma.github.io/teaching/) open to students across ISE, MAE, and other departments. I encourage students interested in human-centered design, human systems integration, and AI/robotic capabilities to enroll. Additional related courses, including those taughts by CSEL colleagues, are listed on the [CSEL course page](https://u.osu.edu/csel/cognitive-systems-engineering-courses/).
 

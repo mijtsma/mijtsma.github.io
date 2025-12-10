@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-## (**new and all majors encouraged to enroll!**) ISE 5194 -- Thinking Across Boundaries: Systems Thinking for Emerging Technology
+## ISE 5194 -- Thinking Across Boundaries: Systems Thinking for Emerging Technology (**new, all majors encouraged to enroll!**) 
 *Spring 2026*
 
 Seven-part workshop series developing systems thinking and interdisciplinary communication skills to analyze complexity, integrate perspectives, and guide responsible integration of emerging technologies into complex sociotechnical domains.

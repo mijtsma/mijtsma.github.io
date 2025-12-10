@@ -37,6 +37,7 @@ This project, led by Mosaic ATM, works on building a Contingency Planning Toolki
 
 ### Featured Publications
 
+- [Paladugu, A., Fernandes, A., & IJtsma, M.. (2025). Computational Simulation of Distributed Work as a Discovery Tool for Envisioning Future Operations. *Journal of Cognitive Engineering and Decision Making*](https://doi.org/10.1177/15553434251327698)
 - [Interactive demo of simulation results](https://mijtsma.github.io/aam-demo/)
 - [“Future of air mobility latest NASA-ISE collaboration”, Ohio State College of Engineering News, 2022](https://engineering.osu.edu/news/2022/12/future-air-mobility-focus-latest-nasa-collaboration)
 - ["Fernandes, A., Wilson, S., IJtsma, M., Paladugu, A., Davis, T., & Lichty, J. (2023). Contingency Planning Toolkit for Emerging Air Mobility Ecosystems. In AIAA AVIATION 2023 Forum (p. 3552). San Diego"](https://doi.org/10.2514/6.2023-3552)
