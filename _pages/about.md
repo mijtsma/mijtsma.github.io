@@ -16,7 +16,7 @@ redirect_from:
 
 I am an assistant professor in the Integrated Systems Engineering department at the Ohio State University (OSU) with a courtesy appointment in the Department of Mechanical and Aerospace Engineering. My research centers on the design and operation of heterogeneous multi-agent systems in high-consequence, high-complexity environments. My lab develops new computational methods to support more effective human–AI/robot teaming (HART) and to strengthen coordination and collaboration within human teams. Ultimately, our goal is to enhance the safety and resilience of safety-critical operations through better systems design. 
 
-My work contributes to a variety of applicatoin domains, including air traffic management, commercial flight deck operations, human spaceflight, and disaster response. 
+My work contributes to a variety of application domains, including air traffic management, commercial flight deck operations, human spaceflight, and disaster response. 
 
 I lead a team of talented graduate and undergraduate researchers in the [Cognitive Systems Engineering Lab (CSEL)](https://csel.engineering.osu.edu). You can explore our ongoing and past projects on the [Research page](https://mijtsma.github.io/current-projects/) and view our publications [here](https://mijtsma.github.io/publications/).
 
