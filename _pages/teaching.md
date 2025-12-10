@@ -4,8 +4,13 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+## (**new and all majors encouraged to enroll!**) ISE 5194 -- Thinking Across Boundaries: Systems Thinking for Emerging Technology
+*Spring 2026*
+
+Seven-part workshop series developing systems thinking and interdisciplinary communication skills to analyze complexity, integrate perspectives, and guide responsible integration of emerging technologies into complex sociotechnical domains.
+
 ## ISE 7700 – Advanced Topics in Cognitive Systems Engineering
-*Spring 2025*
+*Spring 2025, 2026*
 
 Discusses advanced topics in cognitive systems engineering through weekly reading and class discussions.
 

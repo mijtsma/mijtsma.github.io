@@ -29,10 +29,13 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 \[J10\] **IJtsma, M.**, Keller, J., Albert, K., & McSherry, L. (In Review). Investigating How Robotic Cooperative Competencies Relate to Strategy Selection in Human-Robot Joint Activity. *International Journal of Social Robotics.*
 
-\[J11\] Post. A.M., Nijveldt, R., **IJtsma, M.**, & Woods. D.D. (In Review). Determining What’s Next: Visual Analytics for Evaluating Human-Automation Coordination. *Cognition, Technology & Work.*
+\[J11\] Post. A.M., Nijveldt, R., **IJtsma, M.**, & Woods. D.D. (In Review). Determining What’s Next: Visual Analytics for Evaluating Human-Automation Coordination. *Cognition, Technology & Work.* [`preprint`](https://www.researchgate.net/publication/390137523_Determining_What's_Next_Visual_Analytics_for_Evaluating_Human-Automation)
 
 # Book Chapters
 \[B1\] **IJtsma, M.**, Ma, L.M., Feigh, K.M., & Pritchett, A.R. (2019). Analysis of Work Dynamics for Objective Function Allocation in Manned Spaceflight Operations. In M.A. Vidulich & P. Tsang (Eds.), *Improving Aviation Performance through Applying Engineering Psychology, Advances in Aviation Psychology*.
+
+# Reports
+\[R1\]  **IJtsma, M.**, Woods, D. D., Nijveldt, R., & Pruchnicki, S. (2025). Report on the reliance on automated or complex flight deck systems in commercial aircraft: Evaluating compliance to 14 CFR 25.1302(c) and 25.1329(i) (Cognitive Systems Engineering Lab Report 2025-001). The Ohio State University. [`pdf`](https://www.researchgate.net/publication/389817347_Report_on_the_Reliance_on_Automated_or_Complex_Flight_Deck_Systems_in_Commercial_Aircraft_Evaluating_Compliance_to_14_CFR_251302c_and_251329i)
 
 # Conference Papers
 \[C26\] Fernandes, A., Zabara, K., Epps, K., **IJtsma, M.**, Paladugu, A., & Calhoun, S. (2025). Use of Model Based System Engineering to Drive UAM Contingency Management Procedure Design. Paper presented at AIAA Scitech 2025 Forum, Orlando, FL. [`pdf`](https://doi.org/10.2514/6.2025-2529)

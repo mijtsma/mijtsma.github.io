@@ -14,17 +14,23 @@ redirect_from:
 
 --- -->
 
-I am an assistant professor in the Integrated Systems Engineering department at the Ohio State University (OSU) with a courtesy appointment in the Department of Mechanical and Aerospace Engineering. My research interests evolve around operations of heterogeneous multi-agent systems in naturalistic, high-complexity environments. This includes research on human-AI/robot teaming (HART) and technology-supported human-human coordination and collaboration to improve the safety and resilience of high-stakes operations. This research contributes to a variety of domains of practice, such as air traffic management, spaceflight operations, smart mobility, and disaster response operations. 
+I am an assistant professor in the Integrated Systems Engineering department at the Ohio State University (OSU) with a courtesy appointment in the Department of Mechanical and Aerospace Engineering. My research centers on the design and operation of heterogeneous multi-agent systems in high-consequence, high-complexity environments. My lab develops new computational methods to support more effective human–AI/robot teaming (HART) and to strengthen coordination and collaboration within human teams. Ultimately, our goal is to enhance the safety and resilience of safety-critical operations through better systems design. 
 
-I lead a group of graduate and undergraduate students as part of the [Cognitive Systems Engineering Lab (CSEL)](https://csel.engineering.osu.edu). See the [Research tab](https://u.osu.edu/csel/research-projects/) for an overview of specific (past and current) projects that my students and I work(ed) on. An overview of our publications can be found [here](https://mijtsma.github.io/publications/).
-<!--As an important enabler of effective teaming, my students and I work on supporting coordination between humans and (semi-)autonomous agents to improve joint performance during time-critical events.  -->
+My work contributes to a variety of applicatoin domains, including air traffic management, commercial flight deck operations, human spaceflight, and disaster response. 
 
-I teach [several courses](https://mijtsma.github.io/teaching/) at the undergraduate and graduate levels. These courses are open to ISE/MAE students and students from other departments and majors. I encourage anyone interested in systems integration of human and AI/robotic capabilities to sign up for these courses. More courses, also ones offered by my colleagues on similar topics, can be found on the [CSEL course page](https://u.osu.edu/csel/cognitive-systems-engineering-courses/).
+I lead a team of talented graduate and undergraduate researchers in the [Cognitive Systems Engineering Lab (CSEL)](https://csel.engineering.osu.edu). You can explore our ongoing and past projects on the [Research page](https://u.osu.edu/csel/research-projects/) and view our publications [here](https://mijtsma.github.io/publications/).
 
-I am an associate editor for the Journal of Cognitive Engineering and Decision Making, program chair for the Human Factors and Ergonomics Society Annual Meeting (ASPIRE), and a member of the American Institute of Aeronautics and Astronautics (AIAA).
+I teach [undergraduate and graduate courses](https://mijtsma.github.io/teaching/) open to students across ISE, MAE, and other departments. I encourage students interested in human-centered design, human systems integration, and AI/robotic capabilities to enroll. Additional related courses, including those taughts by CSEL colleagues, are listed on the [CSEL course page](https://u.osu.edu/csel/cognitive-systems-engineering-courses/).
+
+I also serve as an Associate Editor for the *Journal of Cognitive Engineering and Decision Making*, Program Chair for the Human Factors and Ergonomics Society Annual Meeting (ASPIRE), and am a member of the American Institute of Aeronautics and Astronautics (AIAA).
 
 News
 ======
+* November 2025: I gave a talk at the first edition of the Multi-Agent Systems Safety and Teamwork (MASST) workshop in London, UK.
+* November 2025: I gave an invited talk as part of the Resilience & Proactive Safety Initiative webinar series.
+* October 2025: Awarded a new two-year grant for research on human-swarm system design.
+* October 2025: Abhinay and Abigail presented their work at the Human Factors and Ergonomics Society's Annual Meeting in Chicago.
+* October 2025: I gave an invited talk at the Mid-West Human-Robot Interaction group.
 * May 2025: Abhinay and Abigail presented their work at the International Symposium on Aviation Psychology.
 * March 2025: Our work on computational modeling and simulation as a discovery tool for envisioning future operations involving distributed work was accepted for publication in the Journal of Cognitive Engineering and Decision Making.
 * December 2024: Connor Kannally successfully defended his MS thesis.
@@ -37,7 +43,7 @@ News
 * April 2024: My students presented their research at Ohio's Advanced Air Mobility Symposium
 * November 2023: Abhinay presented during the graduate colloquium on his dissertation research titled "Building Safe and Efficient Joint Cognitive Systems Using Modeling and Simulation"!
 * October 2023: Awarded a new research grant from the Federal Aviation Administration (FAA) on "Pilot Interactions with Advanced Flight Deck Technologies"!
-* October 2023: PhD student Connor Kannally presented a paper at the Human Factors and Ergonomics' Annual Meeting in Washington DC
+* October 2023: PhD student Connor Kannally presented a paper at the Human Factors and Ergonomics Society's Annual Meeting in Washington DC
 * October 2023: I gave a seminar at Rutgers University Department of Industrial Systems Engineering
 * August 2023: We received a NASA Phase-2 SBIR award for our research with Mosaic ATM on Advanced Air Mobility
 * July 2023: I was a speaker at 2023's AIAA Intelligent Systems workshop
