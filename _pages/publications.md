@@ -25,7 +25,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 # Manuscripts in Review
 
-\[J9\] **IJtsma, M.** & Hargis, S. (In Review). Identifying and Analyzing Human and Robot Teaming Strategies through Network Representations of Work. *IEEE Transactions on Human-Machine Systems*.
+\[J9\] **IJtsma, M.** & Hargis, S. (In Review). A Network-Based Framework for Modeling and Analyzing Human-Robot Coordination Strategies. *IEEE Transactions on Human-Machine Systems*. [`preprint`](https://doi.org/10.48550/arXiv.2512.15282)
 
 \[J10\] **IJtsma, M.**, Keller, J., Albert, K., & McSherry, L. (In Review). Investigating How Robotic Cooperative Competencies Relate to Strategy Selection in Human-Robot Joint Activity. *International Journal of Social Robotics.*
 
