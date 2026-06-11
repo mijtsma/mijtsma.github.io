@@ -9,18 +9,16 @@ Our group is part of the Cognitive Systems Engineering Lab. Check out [CSEL's we
 
 If you're interested in joining our research group, please see [this note](#join-our-group).
 
-# Postdoctoral Researchers
-- Abhinay Paladugu, Ph.D.
-
 # Current Graduate Students
 - Abigail Post, Ph.D. Candidate
+- Jennifer Winner, Ph.D. Candidate
 - Connor Kannally, Ph.D. Student
 - Sal Hargis, Ph.D. Student
 
 # Current Undergraduate Students
 - Jaiden Stratton
-- Joseph Jideonwo
-- Antoine Creamer
+<!-- - Joseph Jideonwo
+- Antoine Creamer -->
 
 # Past Advisees
 - Abhinay Paladugu (Ph.D. 2024) *Current position*: Postdoctoral researcher
