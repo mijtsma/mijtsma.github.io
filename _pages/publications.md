@@ -9,9 +9,9 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 # Journal Articles
 \[J10\] **IJtsma, M.** & Hargis, S. (In Press). Envisioning the Work of Reconfiguring: A Modeling Perspective for Designing Adaptive Human-Agent Systems. *AI Magazine*.
 
-\[J19\] Post, A., Nijveldt, R., Woods, D., & **IJtsma, M.** (In Press). Determining What's Next: Visual Analytics for Evaluating Human-Automation Coordination. *Cognition, Technology & Work*. [`preprint`](https://www.researchgate.net/publication/390137523_Determining_What's_Next_Visual_Analytics_for_Evaluating_Human-Automation)
+\[J19\] Post, A., Nijveldt, R., Woods, D., & **IJtsma, M.** (In Press). Determining What's Next: Visual Analytics for Evaluating Human-Automation Coordination. *Cognition, Technology & Work*. [`pdf`](https://doi.org/10.1007/s10111-026-00889-y)
 
-\[J8\] Paladugu, A., Fernandes, A., & **IJtsma, M.**. (2025). Computational Simulation of Distributed Work as a Discovery Tool for Envisioning Future Operations. *Journal of Cognitive Engineering and Decision Making*. [`pdf'](https://doi.org/10.1177/15553434251327698)
+\[J8\] Paladugu, A., Fernandes, A., & **IJtsma, M.**. (2025). Computational Simulation of Distributed Work as a Discovery Tool for Envisioning Future Operations. *Journal of Cognitive Engineering and Decision Making*. [`pdf`](https://doi.org/10.1177/15553434251327698)
 
 \[J7\] Kannally, C., Paladugu, A., Nijveldt, R., McSherry, L. & **IJtsma, M.** (2024). An Exploratory Study of Contextual Control Modes in Teamwork. *Human Factors*. [`pdf`](https://doi.org/10.1177/00187208241292669)
 
