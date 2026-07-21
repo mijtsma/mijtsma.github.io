@@ -17,8 +17,6 @@ If you're interested in joining our research group, please see [this note](#join
 
 # Current Undergraduate Students
 - Jaiden Stratton
-<!-- - Joseph Jideonwo
-- Antoine Creamer -->
 
 # Past Advisees
 - Abhinay Paladugu (Ph.D. 2024) *Current position*: Postdoctoral researcher
