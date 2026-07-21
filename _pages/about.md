@@ -22,10 +22,16 @@ I lead a team of talented graduate and undergraduate researchers in the [Cogniti
 
 I teach [undergraduate and graduate courses](https://mijtsma.github.io/teaching/) open to students across ISE, MAE, and other departments. I encourage students interested in human-centered design, human systems integration, and AI/robotic capabilities to enroll. Additional related courses, including those taughts by CSEL colleagues, are listed on the [CSEL course page](https://u.osu.edu/csel/cognitive-systems-engineering-courses/).
 
-I also serve as an Associate Editor for the *Journal of Cognitive Engineering and Decision Making*, Program Chair for the Human Factors and Ergonomics Society Annual Meeting (ASPIRE), and am a member of the American Institute of Aeronautics and Astronautics (AIAA).
+I also serve as an Associate Editor for the *Journal of Cognitive Engineering and Decision Making*, Chair Elect for the Human Factors and Ergonomics Society Annual Meeting (ASPIRE), and am a member of the American Institute of Aeronautics and Astronautics (AIAA).
 
 News
 ======
+* June 2026: I have officially been promoted to Associate Professor with tenure!
+* June 2026: Abigail Post presented our work at the Naturalistic Decision Making conference.
+* May 2026: I presented our work with Applied Decision Science at the AIAA ASCEND conference in Washington DC.
+* April 2026: Sal Hargis presented our work at the Multi-Agent Systems Safety and Teamwork (MASST) session of the AAAI Spring Symposium Series.
+* February 2026: I visited the University of Michigan and gave an invited talk to their Department of Industrial and Operations Engineering.
+* February 2026: I gave a talk at the first National Center for Collaborative Autonomy at the Institute of Human and Machine Cognition in Pensacola, Florida.
 * November 2025: I gave a talk at the first edition of the Multi-Agent Systems Safety and Teamwork (MASST) workshop in London, UK.
 * November 2025: I gave an invited talk as part of the Resilience & Proactive Safety Initiative webinar series.
 * October 2025: Awarded a new two-year grant for research on human-swarm system design.
