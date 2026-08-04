@@ -9,7 +9,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 # Journal Articles
 \[J10\] **IJtsma, M.** & Hargis, S. (In Press). Envisioning the Work of Reconfiguring: A Modeling Perspective for Designing Adaptive Human-Agent Systems. *AI Magazine*.
 
-\[J19\] Post, A., Nijveldt, R., Woods, D., & **IJtsma, M.** (In Press). Determining What's Next: Visual Analytics for Evaluating Human-Automation Coordination. *Cognition, Technology & Work*. [`pdf`](https://doi.org/10.1007/s10111-026-00889-y)
+\[J9\] Post, A., Nijveldt, R., Woods, D., & **IJtsma, M.** (2026). Determining What's Next: Visual Analytics for Evaluating Human-Automation Coordination. *Cognition, Technology & Work*. [`pdf`](https://doi.org/10.1007/s10111-026-00889-y)
 
 \[J8\] Paladugu, A., Fernandes, A., & **IJtsma, M.**. (2025). Computational Simulation of Distributed Work as a Discovery Tool for Envisioning Future Operations. *Journal of Cognitive Engineering and Decision Making*. [`pdf`](https://doi.org/10.1177/15553434251327698)
 
@@ -27,11 +27,16 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 \[J1\] Pritchett, A. R., Bhattacharyya, R. P., & **IJtsma, M.** (2016). Computational Assessment of Authority and Responsibility in Air Traffic Concepts of Operation. *Journal of Air Transportation, 24*(3), 93-101. [`pdf`](https://doi.org/10.2514/1.D0024)
 
-# Manuscripts in Review
+# Manuscripts in Review / Preprints
 
-\[J9\] **IJtsma, M.** & Hargis, S. (In Review). A Network-Based Framework for Modeling and Analyzing Human-Robot Coordination Strategies. *IEEE Transactions on Human-Machine Systems*. [`preprint`](https://doi.org/10.48550/arXiv.2512.15282)
+\[J11\] **IJtsma, M.** & Hargis, S. (In Review). A Network-Based Framework for Modeling and Analyzing Human-Robot Coordination Strategies. *Submitted to IEEE Transactions on Human-Machine Systems*. [`preprint`](https://doi.org/10.48550/arXiv.2512.15282)
 
-\[J10\] **IJtsma, M.**, Keller, J., Albert, K., & McSherry, L. (In Review). Investigating How Robotic Cooperative Competencies Relate to Strategy Selection in Human-Robot Joint Activity. *International Journal of Social Robotics.*
+<!-- \[J10\] **IJtsma, M.**, Keller, J., Albert, K., & McSherry, L. (In Review). Investigating How Robotic Cooperative Competencies Relate to Strategy Selection in Human-Robot Joint Activity. *International Journal of Social Robotics.* -->
+
+\[J12\] Kannally, C. & **IJtsma, M.** (In Review). Locally Adaptive, Globally Maladaptive: Exploring Sensemaking Dynamics in Distributed Work Using Work Models that Compute. *Submitted toJournal of Cognitive Engineering and Decision Making*.
+
+\[J13\] Paladugu, A., Fernandes, A., & **IJtsma, M.** (In Review). Synchronizing Multi-Threaded Activity under Pressure: A Simulation Study of Contingency Response in Envisioned Air Traffic Management Operations. *Submitted to Cognition, Technology and Work*.
+
 
 # Book Chapters
 \[B1\] **IJtsma, M.**, Ma, L.M., Feigh, K.M., & Pritchett, A.R. (2019). Analysis of Work Dynamics for Objective Function Allocation in Manned Spaceflight Operations. In M.A. Vidulich & P. Tsang (Eds.), *Improving Aviation Performance through Applying Engineering Psychology, Advances in Aviation Psychology*.
