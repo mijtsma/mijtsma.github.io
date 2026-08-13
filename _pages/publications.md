@@ -7,7 +7,7 @@ author_profile: true
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=CepXXxYAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
 # Journal Articles
-\[J10\] **IJtsma, M.** & Hargis, S. (In Press). Envisioning the Work of Reconfiguring: A Modeling Perspective for Designing Adaptive Human-Agent Systems. *AI Magazine*.
+\[J10\] **IJtsma, M.** & Hargis, S. (2026). Envisioning the Work of Reconfiguring: A Modeling Perspective for Designing Adaptive Human-Agent Systems. *AI Magazine*. [`pdf`](https://doi.org/10.1002/aaai.70085)
 
 \[J9\] Post, A., Nijveldt, R., Woods, D., & **IJtsma, M.** (2026). Determining What's Next: Visual Analytics for Evaluating Human-Automation Coordination. *Cognition, Technology & Work*. [`pdf`](https://doi.org/10.1007/s10111-026-00889-y)
 
