@@ -12,14 +12,14 @@ If you're interested in joining our research group, please see [this note](#join
 # Current Graduate Students
 - Abigail Post, Ph.D. Candidate
 - Jennifer Winner, Ph.D. Candidate
-- Connor Kannally, Ph.D. Student
-- Sal Hargis, Ph.D. Student
+- Connor Kannally, Ph.D. Candidate
+- Sal Hargis, Ph.D. Candidate
 
 # Current Undergraduate Students
 - Jaiden Stratton
 
 # Past Advisees
-- Abhinay Paladugu (Ph.D. 2024) *Current position*: Postdoctoral researcher
+- Abhinay Paladugu (Ph.D. 2024) *Current position*: Lecturer at Purdue Systems Collaboratory
 - Joan Smith (MS 2024) *Current position*: Strategy Lead, 99P Labs
 - Renske Nijveldt (MS 2023) *Current position*: Human Factors Engineer, Boeing
 - Jacob Keller (MS 2023) *Current position*: Human Systems Engineer, NASA

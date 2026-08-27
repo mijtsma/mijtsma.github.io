@@ -7,15 +7,15 @@ author_profile: true
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=CepXXxYAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
 # Journal Articles
-\[J10\] **IJtsma, M.** & Hargis, S. (2026). Envisioning the Work of Reconfiguring: A Modeling Perspective for Designing Adaptive Human-Agent Systems. *AI Magazine*. [`pdf`](https://doi.org/10.1002/aaai.70085)
+\[J10\] **IJtsma, M.** & Hargis, S. (2026). Envisioning the Work of Reconfiguring: A Modeling Perspective for Designing Adaptive Human-Agent Systems. *AI Magazine, 47*(3). [`pdf`](https://doi.org/10.1002/aaai.70085)
 
-\[J9\] Post, A., Nijveldt, R., Woods, D., & **IJtsma, M.** (2026). Determining What's Next: Visual Analytics for Evaluating Human-Automation Coordination. *Cognition, Technology & Work*. [`pdf`](https://doi.org/10.1007/s10111-026-00889-y)
+\[J9\] Post, A., Nijveldt, R., Woods, D., & **IJtsma, M.** (2026). Determining What's Next: Visual Analytics for Evaluating Human-Automation Coordination. *Cognition, Technology & Work, 68*(1). [`pdf`](https://doi.org/10.1007/s10111-026-00889-y)
 
-\[J8\] Paladugu, A., Fernandes, A., & **IJtsma, M.**. (2025). Computational Simulation of Distributed Work as a Discovery Tool for Envisioning Future Operations. *Journal of Cognitive Engineering and Decision Making*. [`pdf`](https://doi.org/10.1177/15553434251327698)
+\[J8\] Paladugu, A., Fernandes, A., & **IJtsma, M.**. (2025). Computational Simulation of Distributed Work as a Discovery Tool for Envisioning Future Operations. *Journal of Cognitive Engineering and Decision Making, 19*(4). [`pdf`](https://doi.org/10.1177/15553434251327698)
 
-\[J7\] Kannally, C., Paladugu, A., Nijveldt, R., McSherry, L. & **IJtsma, M.** (2024). An Exploratory Study of Contextual Control Modes in Teamwork. *Human Factors*. [`pdf`](https://doi.org/10.1177/00187208241292669)
+\[J7\] Kannally, C., Paladugu, A., Nijveldt, R., McSherry, L. & **IJtsma, M.** (2024). An Exploratory Study of Contextual Control Modes in Teamwork. *Human Factors 67*(5), 409-426. [`pdf`](https://doi.org/10.1177/00187208241292669)
 
-\[J6\] Barrett, E., Paladugu, A., & **IJtsma, M.** (2024). Multi-Agent Simulation to Envision Communication Strategies in Future Air Mobility Operations. *AIAA Journal of Aerospace Information Systems. 21*(8), 605-615. [`pdf`](https://doi.org/10.2514/1.I011239)
+\[J6\] Barrett, E., Paladugu, A., & **IJtsma, M.** (2024). Multi-Agent Simulation to Envision Communication Strategies in Future Air Mobility Operations. *AIAA Journal of Aerospace Information Systems, 21*(8), 605-615. [`pdf`](https://doi.org/10.2514/1.I011239)
 
 \[J5\] Keller, J.R., **IJtsma, M.**, Newton, E.K. (2023). Examining autonomous flight safety systems from a cognitive systems engineering perspective: Challenges, themes, and outlying risks. *Journal of Space Safety Engineering, 10*(1), 76-81. [`pdf`](ttps://doi.org/10.1016/j.jsse.2022.11.005)
 
