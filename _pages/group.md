@@ -15,8 +15,8 @@ If you're interested in joining our research group, please see [this note](#join
 - Connor Kannally, Ph.D. Candidate
 - Sal Hargis, Ph.D. Candidate
 
-# Current Undergraduate Students
-- Jaiden Stratton
+<!-- # Current Undergraduate Students
+- Jaiden Stratton -->
 
 # Past Advisees
 - Abhinay Paladugu (Ph.D. 2024) *Current position*: Lecturer at Purdue Systems Collaboratory
