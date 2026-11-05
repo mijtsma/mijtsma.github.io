@@ -35,7 +35,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 \[J12\] Kannally, C. & **IJtsma, M.** (In Review). Locally Adaptive, Globally Maladaptive: Exploring Sensemaking Dynamics in Distributed Work Using Work Models that Compute. *Submitted toJournal of Cognitive Engineering and Decision Making*.
 
-\[J13\] Paladugu, A., Fernandes, A., & **IJtsma, M.** (In Review). Synchronizing Multi-Threaded Activity under Pressure: A Simulation Study of Contingency Response in Envisioned Air Traffic Management Operations. *Submitted to Cognition, Technology and Work*.
+\[J13\] Paladugu, A., Fernandes, A., & **IJtsma, M.** (In Review). Synchronizing Multi-Threaded Activity under Pressure: A Simulation Study of Contingency Response in Envisioned Air Traffic Management Operations. *Submitted to Cognition, Technology and Work*. [`preprint`](https://doi.org/10.21203/rs.3.rs-9839654/v1)
 
 
 # Book Chapters
