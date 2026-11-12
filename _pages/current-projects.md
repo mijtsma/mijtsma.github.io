@@ -13,35 +13,13 @@ The deployment of smart robots promises increased safety, productivity, and capa
 
 ### Featured Publications and Links
 
+- [IJtsma, M. & Hargis, S. (2026). Envisioning the Work of Reconfiguring: A Modeling Perspective for Designing Adaptive Human-Agent Systems. *AI Magazine, 47*(3)](https://doi.org/10.1002/aaai.70085)
 - [Our open-source Python library for graph-based modeling of joint activity](https://github.com/mijtsma/jsat)
 - [Hargis, S. & IJtsma, M. (2024). Functional Models of Work to Examine Human-Robot Coordination in Disaster Response. Paper presented at the Human Factors and Ergonomics Society Annual Meeting, Phoenix.](https://doi.org/10.1177/10711813241276478)
 - [Interactive demo of one of our graph representations of the work involved in human-robot coordination](https://mijtsma.github.io/hrt-demo/)
 - ["IJtsma’s NSF CAREER award will advance human-robot collaboration", Ohio State College of Engineering News, 2023](https://engineering.osu.edu/news/2023/03/ijtsmas-nsf-career-award-will-advance-human-robot-collaboration)
 - ["Promising young researchers earn NSF CAREER awards", Ohio State College of Engineering News, 2023](https://engineering.osu.edu/news/2023/10/promising-young-researchers-earn-nsf-career-awards)
 - ["Award # 2238402 - CAREER: Making Robots More Cooperative Agents: Controlling Costs of Coordination Through Graph-Based Models of Joint Activity"](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2238402&HistoricalAwards=false)
-
-## FAA: Reliance on Automated or Complex Flight Deck Systems in Commercial Aircraft 
-
-This project’s objective is to develop methods for identifying and evaluating design characteristics of automated or complex system. Complex systems such as commercial aircraft, have many high vulnerabilities that can arise. These vulnerabilities may undermine flight crew performance when non-normal and abnormal events occur. The scope of this project is to provide the Federal Aviation Administration (FAA) with recommendations regarding the evaluation process of flight deck systems.
-
-### Featured Publications
-
-- [Post, Nijveldt, IJtsma, & Woods (preprint). Determining What's Next: Visual Analytics for Evaluating Human-Automation. Under review with Cognition, Technology and Work.](https://www.researchgate.net/publication/390137523_Determining_What's_Next_Visual_Analytics_for_Evaluating_Human-Automation)
-- [Report on the Reliance on Automated or Complex Flight Deck Systems in Commercial Aircraft: Evaluating Compliance to 14 CFR 25.1302(c) and 25.1329(i)](https://www.researchgate.net/publication/389817347_Report_on_the_Reliance_on_Automated_or_Complex_Flight_Deck_Systems_in_Commercial_Aircraft_Evaluating_Compliance_to_14_CFR_251302c_and_251329i)
-- [“ISE studying human factors challenges with complex flight deck automation systems”, BuckISE Newsletter, 2023](https://ise.osu.edu/news/2023/03/ise-studying-human-factors-challenges-complex-flight-deck-automation-systems)
-
-
-## NASA: Contingency Planning for Advanced Air Mobility (AAM) 
-
-This project, led by Mosaic ATM, works on building a Contingency Planning Toolkit for Advanced Air Mobility. Our role is to develop and apply novel modeling and simulation techniques for evaluating candidate architectures and identify requirements for distributed AAM contingency planning. Through fast-time simulation, we can identify what is necessary to (1) create feasible concepts of operations that create the desired outcomes, (2) conduct comparisons between different system architectures and strategies for responding to contingencies, and (3) identify where further resources need to be invested to improve the robustness of envisioned concepts.
-
-### Featured Publications
-
-- [Paladugu, A., Fernandes, A., & IJtsma, M.. (2025). Computational Simulation of Distributed Work as a Discovery Tool for Envisioning Future Operations. *Journal of Cognitive Engineering and Decision Making*](https://doi.org/10.1177/15553434251327698)
-- [Interactive demo of simulation results](https://mijtsma.github.io/aam-demo/)
-- [“Future of air mobility latest NASA-ISE collaboration”, Ohio State College of Engineering News, 2022](https://engineering.osu.edu/news/2022/12/future-air-mobility-focus-latest-nasa-collaboration)
-- ["Fernandes, A., Wilson, S., IJtsma, M., Paladugu, A., Davis, T., & Lichty, J. (2023). Contingency Planning Toolkit for Emerging Air Mobility Ecosystems. In AIAA AVIATION 2023 Forum (p. 3552). San Diego"](https://doi.org/10.2514/6.2023-3552)
-- ["Paladugu, A., Fernandes, A., Wilson, S., Davis, T., Lichty, J., IJtsma, M. (2023). Evaluating Envisioned Air Mobility Architectures Using Computational Simulations of Work. Paper presented at the International Symposium on Aviation Psychology. Rochester, NY."](https://corescholar.libraries.wright.edu/cgi/viewcontent.cgi?article=1001&&context=isap_2023&&sei-redir=1&referer=https%253A%252F%252Fscholar.google.com%252Fscholar%253Fhl%253Den%2526as_sdt%253D0%25252C36%2526q%253DEvaluating%252BEnvisioned%252BAir%252BMobility%252BArchitectures%252BUsing%252BComputational%252BSimulations%252Bof%252BWork%2526btnG%253D#search=%22Evaluating%20Envisioned%20Air%20Mobility%20Architectures%20Using%20Computational%20Simulations%20Work%22)
 
 
 ## NASA: Cognitive Systems Engineering (CSE) Methods to Support Adaptive, Integrated Anomaly Response
@@ -53,10 +31,33 @@ The project, led by Applied Decision Sciences, aims to tailor cognitive systems 
 - [NASA STTR-2024-Phase 1 award announcement](https://www.nasa.gov/wp-content/uploads/2024/01/sttr-24-i-v2.pdf?emrc=67817da557894)
 
 
+## FAA: Reliance on Automated or Complex Flight Deck Systems in Commercial Aircraft 
+
+This project’s objective is to develop methods for identifying and evaluating design characteristics of automated or complex system. Complex systems such as commercial aircraft, have many high vulnerabilities that can arise. These vulnerabilities may undermine flight crew performance when non-normal and abnormal events occur. The scope of this project is to provide the Federal Aviation Administration (FAA) with recommendations regarding the evaluation process of flight deck systems.
+
+### Featured Publications
+
+- [Post, A., Nijveldt, R., Woods, D., & IJtsma, M. (2026). Determining What's Next: Visual Analytics for Evaluating Human-Automation Coordination. *Cognition, Technology & Work, 68*(1).](https://doi.org/10.1007/s10111-026-00889-y)
+- [Report on the Reliance on Automated or Complex Flight Deck Systems in Commercial Aircraft: Evaluating Compliance to 14 CFR 25.1302(c) and 25.1329(i)](https://www.researchgate.net/publication/389817347_Report_on_the_Reliance_on_Automated_or_Complex_Flight_Deck_Systems_in_Commercial_Aircraft_Evaluating_Compliance_to_14_CFR_251302c_and_251329i)
+- [“ISE studying human factors challenges with complex flight deck automation systems”, BuckISE Newsletter, 2023](https://ise.osu.edu/news/2023/03/ise-studying-human-factors-challenges-complex-flight-deck-automation-systems)
+
+<!-- 
 ## 99P: Human-AI Teaming in Future Mobility
 
 This collaboration with 99P Labs envisions new techniques for designing human-AI systems for future mobility. These techniques leverage ideas from functional modeling and graph theory to systematically reason about how different configurations of humans and AI capabilities create interdependence relationships that must be managed and supported through design. The project applies these techniques to the problem of replanning while en route, to envision how new machine capabilities can integrate with human cognitive processes around replanning to create a well-performing, integrated system.
 
 ### Featured Publications
 
-- ["Kannally, C., Smith, J. & IJtsma, M. (2023). Human-AI Teaming in the Automotive and Mobility Industry: Guiding Design to Support Joint Activity. Paper presented at the Human Factors and Ergonomics Society Annual Meeting, Washington DC."](https://doi.org/10.1177/0959651812456333)
+- ["Kannally, C., Smith, J. & IJtsma, M. (2023). Human-AI Teaming in the Automotive and Mobility Industry: Guiding Design to Support Joint Activity. Paper presented at the Human Factors and Ergonomics Society Annual Meeting, Washington DC."](https://doi.org/10.1177/0959651812456333) -->
+
+<!-- ## NASA: Contingency Planning for Advanced Air Mobility (AAM) 
+
+This project, led by Mosaic ATM, works on building a Contingency Planning Toolkit for Advanced Air Mobility. Our role is to develop and apply novel modeling and simulation techniques for evaluating candidate architectures and identify requirements for distributed AAM contingency planning. Through fast-time simulation, we can identify what is necessary to (1) create feasible concepts of operations that create the desired outcomes, (2) conduct comparisons between different system architectures and strategies for responding to contingencies, and (3) identify where further resources need to be invested to improve the robustness of envisioned concepts.
+
+### Featured Publications
+
+- [Paladugu, A., Fernandes, A., & IJtsma, M.. (2025). Computational Simulation of Distributed Work as a Discovery Tool for Envisioning Future Operations. *Journal of Cognitive Engineering and Decision Making*](https://doi.org/10.1177/15553434251327698)
+- [Interactive demo of simulation results](https://mijtsma.github.io/aam-demo/)
+- [“Future of air mobility latest NASA-ISE collaboration”, Ohio State College of Engineering News, 2022](https://engineering.osu.edu/news/2022/12/future-air-mobility-focus-latest-nasa-collaboration)
+- ["Fernandes, A., Wilson, S., IJtsma, M., Paladugu, A., Davis, T., & Lichty, J. (2023). Contingency Planning Toolkit for Emerging Air Mobility Ecosystems. In AIAA AVIATION 2023 Forum (p. 3552). San Diego"](https://doi.org/10.2514/6.2023-3552)
+- ["Paladugu, A., Fernandes, A., Wilson, S., Davis, T., Lichty, J., IJtsma, M. (2023). Evaluating Envisioned Air Mobility Architectures Using Computational Simulations of Work. Paper presented at the International Symposium on Aviation Psychology. Rochester, NY."](https://corescholar.libraries.wright.edu/cgi/viewcontent.cgi?article=1001&&context=isap_2023&&sei-redir=1&referer=https%253A%252F%252Fscholar.google.com%252Fscholar%253Fhl%253Den%2526as_sdt%253D0%25252C36%2526q%253DEvaluating%252BEnvisioned%252BAir%252BMobility%252BArchitectures%252BUsing%252BComputational%252BSimulations%252Bof%252BWork%2526btnG%253D#search=%22Evaluating%20Envisioned%20Air%20Mobility%20Architectures%20Using%20Computational%20Simulations%20Work%22) -->
